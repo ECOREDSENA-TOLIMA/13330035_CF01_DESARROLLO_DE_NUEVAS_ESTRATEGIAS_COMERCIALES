@@ -1,9 +1,10 @@
 export default {
   global: {
-    componenteFormativo: 'NOMBRE_DEL_COMPONENTE_FORMATIVO',
-    descripcionCurso: 'BREVE_DESCRIPCIÓN',
-    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.svg'),
-    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.png'),
+    componenteFormativo: 'Desarrollo de nuevas estrategias comerciales',
+    descripcionCurso:
+      'Este componente se enfoca en la identificación del cliente ideal a través de la creación de perfiles detallados y el uso de herramientas y técnicas de análisis. Permite a las empresas personalizar sus estrategias comerciales, optimizar recursos y maximizar beneficios mediante el conocimiento profundo de sus clientes actuales y potenciales.',
+    imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),
+    fondoBannerPrincipal: require('@/assets/curso/portada/fondo-banner-principal.svg'),
     imagenesDecorativasBanner: [
       {
         clases: ['banner-principal-decorativo-1', 'd-none', 'd-lg-block'],
@@ -31,27 +32,116 @@ export default {
       {
         nombreRuta: 'tema1',
         numero: '1',
-        titulo: 'Titulo_de_primer_nivel',
+        titulo: 'Identificación del cliente ideal',
         desarrolloContenidos: true,
         subMenu: [
           {
             numero: '1.1',
-            titulo: 'Titulo_de_segundo_nivel',
+            titulo: 'Definición del perfil de cliente',
             hash: 't_1_1',
+          },
+          {
+            numero: '1.2',
+            titulo:
+              'Herramientas y técnicas para identificar clientes potenciales',
+            hash: 't_1_2',
+          },
+          {
+            numero: '1.3',
+            titulo: 'Segmentación de mercados',
+            hash: 't_1_3',
           },
         ],
       },
-
       {
         nombreRuta: 'tema2',
         numero: '2',
-        titulo: 'Titulo_de_primer_nivel',
+        titulo: 'Recopilación de información del cliente',
         desarrolloContenidos: true,
       },
       {
         nombreRuta: 'tema3',
         numero: '3',
-        titulo: 'Titulo_de_primer_nivel',
+        titulo: 'Importancia de la información en la estrategia comercial',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '3.1',
+            titulo: 'Análisis de datos para la toma de decisiones',
+            hash: 't_3_1',
+          },
+          {
+            numero: '3.2',
+            titulo: 'Personalización de la oferta comercial',
+            hash: 't_3_2',
+          },
+          {
+            numero: '3.3',
+            titulo:
+              'Estrategias de fidelización basadas en el conocimiento del cliente',
+            hash: 't_3_3',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema4',
+        numero: '4',
+        titulo: 'Regulaciones y normativas sobre la información del cliente',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '4.1',
+            titulo: 'Protección de datos personales',
+            hash: 't_4_1',
+          },
+          {
+            numero: '4.2',
+            titulo:
+              'Consentimiento y transparencia en la recopilación de datos',
+            hash: 't_4_2',
+          },
+          {
+            numero: '4.3',
+            titulo:
+              'Responsabilidades legales de las empresas en el manejo de información',
+            hash: 't_4_3',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema5',
+        numero: '5',
+        titulo: 'Portafolio de productos y servicios',
+        desarrolloContenidos: true,
+        subMenu: [
+          {
+            numero: '5.1',
+            titulo:
+              'Componentes principales del portafolio de productos y servicios',
+            hash: 't_5_1',
+          },
+          {
+            numero: '5.2',
+            titulo: 'Ciclo de vida del producto',
+            hash: 't_5_2',
+          },
+          {
+            numero: '5.3',
+            titulo: 'Gestión del portafolio de productos y servicios',
+            hash: 't_5_3',
+          },
+        ],
+      },
+      {
+        nombreRuta: 'tema6',
+        numero: '6',
+        titulo: 'Portafolio de instituciones financieras',
+        desarrolloContenidos: true,
+      },
+      {
+        nombreRuta: 'tema7',
+        numero: '7',
+        titulo: 'Portafolio de servicios financieros',
         desarrolloContenidos: true,
       },
     ],
