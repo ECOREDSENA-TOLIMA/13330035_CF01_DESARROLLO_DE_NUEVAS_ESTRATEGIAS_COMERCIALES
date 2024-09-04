@@ -206,6 +206,187 @@
     p.mb-2(data-aos="fade-right") #[b Ejemplo práctico:] una empresa que vende productos de belleza naturales decide utilizar Google Forms para entender mejor las preferencias de sus clientes. Se diseña una encuesta con preguntas sobre sus productos favoritos, frecuencia de compra, preocupaciones sobre ingredientes y preferencias de envase. La encuesta se envía a los seguidores en Instagram y a los suscriptores del boletín de noticias.
     p.mb-4(data-aos="fade-right") De los resultados, se descubre que una gran mayoría de los clientes prefieren productos con envases sostenibles y están interesados en ingredientes orgánicos. Con esta información, la empresa decide lanzar una nueva línea de productos con envases ecológicos y aumentar la transparencia sobre los ingredientes utilizados, además de ajustar las campañas de #[em marketing] para resaltar estos aspectos.
 
+    .row.mb-4.p-4.justify-content-center.align-items-center
+      .col-lg-5.col-md-4.col-12(data-aos="fade-right")
+        figure
+          img(src='@/assets/curso/temas/tema1/img_11.png', alt='')
+      .col-lg-7.col-md-8.col-12(data-aos="fade-right")
+        strong.text-1.mb-3(data-aos="zoom-in-down") #[span ●] ¿Qué es un #[em insight]?
+        .cajon.color-primario.p-4.mb-3.mt-3
+          p.mb-0 Un #[em insight] es una comprensión profunda y reveladora sobre los comportamientos, necesidades, motivaciones o actitudes de los consumidores. Es una verdad oculta que, una vez descubierta, proporciona una nueva perspectiva y puede guiar la toma de decisiones estratégicas en #[em marketing], desarrollo de productos y otras áreas empresariales.
+        p #[b Ejemplo de #[em insight]:] una empresa de alimentos puede descubrir que sus consumidores compran ciertos productos no solo por su sabor, sino porque les evocan recuerdos nostálgicos de su infancia. Este #[em insight] puede llevar a la empresa a desarrollar campañas de #[em marketing] que se centren en la nostalgia y los momentos familiares, aumentando así la conexión emocional con la marca.
+
+    .row.mb-4.fondo-1.align-items-center
+      .col-lg-9.col-md-10.col-12(data-aos="fade-right")
+        div.fondo-2
+          b.px-3.py-1(data-aos="zoom-in-down") #[span ●] Para el uso en el análisis de comportamiento en redes sociales y plataformas digitales
+
+    p.mb-2(data-aos="fade-right") El análisis de comportamiento en redes sociales y plataformas digitales es una técnica moderna y poderosa para identificar clientes potenciales. Al estudiar las interacciones y preferencias de los usuarios en plataformas como Facebook, Instagram, LinkedIn, y otros, las empresas pueden identificar patrones de comportamiento y segmentar a los clientes de manera más precisa.
+    p.mb-4(data-aos="fade-right") Para el caso puntual de las redes sociales, cada red social tiene su propia herramienta de gestión de estadísticas con las que se obtiene información de valor, adicionalmente se pueden usar algunas de las siguientes herramientas que aportan a esa caracterización:
+
+    .row.justify-content-center.mb-5
+      .col-lg-10.col-12.position-relative
+        .avatar
+          figure
+            img(src="@/assets/curso/temas/tema1/ico-3.svg", alt="alt").img250
+        .crd.crd--avatarHorizontal.crd--first.py-4
+          .row.align-items-center
+            .col-auto
+              figure
+                img(src="@/assets/curso/temas/tema1/ico-3A.svg", alt="alt").img100
+            .col
+              h5 Hootsuite
+              p Plataforma de gestión de redes sociales que permite monitorear y analizar la actividad de los usuarios en múltiples redes sociales.
+        .crd.crd--avatarHorizontal.py-4
+          .row.align-items-center
+            .col-auto
+              figure
+                img(src="@/assets/curso/temas/tema1/ico-3B.svg", alt="alt").img100
+            .col
+              h5 Sprout Social
+              p Ofrece análisis detallados de las interacciones en redes sociales y ayuda a identificar tendencias y comportamientos de los usuarios.
+        .crd.crd--avatarHorizontal.crd--last.py-4
+          .row.align-items-center
+            .col-auto
+              figure
+                img(src="@/assets/curso/temas/tema1/ico-3C.svg", alt="alt").img100
+            .col
+              h5 BuzzSumo
+              p Herramienta que permite analizar el contenido más compartido en redes sociales y entender qué tipo de contenido atrae a la audiencia.
+    p.mb-2(data-aos="fade-right") #[b Ejemplo:] una tienda en línea de productos de belleza puede utilizar herramientas de análisis de redes sociales para identificar a personas que siguen cuentas relacionadas con el cuidado de la piel y la belleza, interactúan con contenido sobre maquillaje y publican reseñas de productos de belleza.
+
+    Separador
+    #t_1_3.titulo-segundo.color-primario(data-aos="fade-right")
+      h2 1.3 Segmentación de mercados
+
+    p.mb-4(data-aos="fade-right") La segmentación de mercados es un proceso estratégico en el que se divide un mercado heterogéneo en grupos más pequeños y homogéneos, conocidos como segmentos, que comparten características similares. Este enfoque permite a las empresas adaptar sus estrategias de #[em marketing] y ventas para satisfacer de manera más efectiva las necesidades y preferencias de cada grupo específico. Según Kotler y Keller (2019), la segmentación de mercados es esencial para identificar oportunidades de mercado, mejorar la satisfacción del cliente y maximizar la eficiencia en el uso de recursos. Los principales tipos de segmentación de mercados son los siguientes:
+
+    .row.justify-content-center.align-items-center
+      .col-12.col-md-10.d-none.d-sm-none.d-md-block(data-aos="zoom-in-down")
+        ImagenInfograficaB.color-acento-botones.mb-4
+          template(v-slot:imagen)
+            figure
+              img(src='@/assets/curso/temas/tema1/info-2A.svg', alt='')
+          div.p-3(x="20%" y="17%" numero="+" tooltip="Clic para ver información")
+            .h5.mb-2 Segmentación demográfica
+            p Basada en características cuantificables de la población, como la edad, género, ingresos, nivel educativo, ocupación, estado civil, entre otras.
+            p #[b Ejemplo:] una empresa de productos de belleza puede segmentar su mercado en función del género y la edad, ofreciendo productos específicos para mujeres jóvenes y hombres mayores.
+          div.p-3(x="80%" y="17%" numero="+" tooltip="Clic para ver información")
+            .h5.mb-2 Segmentación geográfica
+            p Basada en la ubicación de los clientes, como país, región, ciudad, vecindario o clima.
+            p #[b Ejemplo:] una marca de ropa puede lanzar diferentes líneas de productos dependiendo del clima de cada región, como ropa de invierno para el norte y ropa ligera para el sur.
+          div.p-3(x="80%" y="69%" numero="+" tooltip="Clic para ver información")
+            .h5.mb-2 Segmentación psicográfica
+            p Basada en el estilo de vida, personalidad, valores, intereses y actitudes de los clientes.
+            p #[b Ejemplo:] una empresa de alimentos saludables puede segmentar su mercado en consumidores preocupados por su salud y aquellos interesados en tendencias de alimentación como el veganismo o la alimentación orgánica.
+          div.p-3(x="20%" y="69%" numero="+" tooltip="Clic para ver información")
+            .h5.mb-2 Segmentación conductual
+            p Basada en el comportamiento de compra de los clientes, como hábitos de compra, lealtad a la marca, uso del producto y beneficios buscados.
+            p #[b Ejemplo:] un proveedor de servicios de #[em streaming] puede segmentar su mercado en función de los hábitos de visualización de los usuarios, ofreciendo recomendaciones personalizadas basadas en el historial de visualización.
+      .col-12.d-block.d-md-none
+        .row 
+          .col-12.mb-4
+            figure
+              img(src='@/assets/curso/temas/tema1/info-1B.svg', alt='')
+
+    p.mb-4(data-aos="fade-right") Hacer segmentación de mercados es de gran importancia por temas logísticos y económicos de las empresas, son muchos los factores que se trabajan en relación a beneficios empresariales, los siguientes son solo algunos de esos beneficios:
+
+    .row.mb-5.justify-content-center.align-items-center(data-aos="fade-left")
+      .col-md-6.col-lg.tarjeta--tabla.tarjetas.color-primario.p-4
+        .row.justify-content-center.mb-3
+          .col-4.mb-4
+            img(src='@/assets/curso/temas/tema1/ico-4A.svg' alt='AvatarTop')
+        h5.text-center Eficiencia en el uso de recursos
+        p.text-center Permite a las empresas enfocar sus esfuerzos y recursos en los segmentos más rentables y con mayor potencial de crecimiento.
+      .col-md-6.col-lg.tarjeta--tabla.tarjetas.color-secundario.p-4
+        .row.justify-content-center.mb-3
+          .col-4
+            img(src='@/assets/curso/temas/tema1/ico-4B.svg' alt='AvatarTop')
+        h5.text-center Personalización del #[m marketing]
+        p.text-center Facilita la creación de estrategias de #[em marketing] personalizadas que resuenan mejor con las necesidades y deseos específicos de cada segmento.
+      .col-md-6.col-lg.tarjeta--tabla.tarjetas.color-primario.p-4
+        .row.justify-content-center.mb-3
+          .col-4.mb-4
+            img(src='@/assets/curso/temas/tema1/ico-4C.svg' alt='AvatarTop')
+        h5.text-center Mejora de la satisfacción del cliente
+        p.text-center Al abordar las necesidades específicas de cada segmento, se puede mejorar significativamente la satisfacción y lealtad del cliente.
+      .col-md-6.col-lg.tarjeta--tabla.tarjetas.color-secundario.p-4
+        .row.justify-content-center.mb-3
+          .col-4
+            img(src='@/assets/curso/temas/tema1/ico-4D.svg' alt='AvatarTop')
+        h5.text-center Identificación de oportunidades de mercado
+        p.text-center Ayuda a descubrir nichos de mercado no atendidos o subatendidos que pueden ser explotados para obtener una ventaja competitiva.
+
+    .row.mb-4.fondo-1.align-items-center
+      .col-lg-4.col-md-8.col-12(data-aos="fade-right")
+        div.fondo-2
+          b.px-3.py-1(data-aos="zoom-in-down") #[span ●] Técnicas de segmentación
+
+    p.mb-4(data-aos="fade-right") La segmentación de mercados es una estrategia fundamental que permite a las empresas dividir su mercado total en segmentos más pequeños y homogéneos para diseñar y aplicar estrategias de #[em marketing] más efectivas. Existen diversas técnicas de segmentación que las empresas pueden utilizar para identificar y clasificar a sus clientes en grupos específicos. A continuación, se presentan las técnicas más comunes y efectivas para la segmentación de mercados.
+    
+    TabsA.color-acento-botones.mb-5
+      .tarjeta.color-secundario.p-4(titulo="Segmentación demográfica")
+        h4 Segmentación demográfica
+        p La segmentación demográfica divide el mercado en segmentos basados en variables demográficas tales como edad, género, ingresos, nivel educativo, ocupación, estado civil y tamaño de la familia.
+        p #[b Ejemplo práctico:] una empresa de productos de cuidado personal puede segmentar su mercado en función del género y la edad, ofreciendo una línea de productos anti-envejecimiento para mujeres mayores de 40 años y una línea de productos para el acné dirigida a adolescentes.
+      .tarjeta.color-secundario.p-4(titulo="Segmentación geográfica")
+        h4 Segmentación geográfica
+        p La segmentación geográfica clasifica a los clientes en función de su ubicación geográfica, como país, región, ciudad, vecindario o clima. Esta técnica permite a las empresas ajustar sus estrategias de #[em marketing] según las características y necesidades de cada área geográfica.
+        p #[b Ejemplo práctico:] una cadena de restaurantes puede utilizar la segmentación geográfica para ofrecer menús adaptados a los gustos locales, como platos de mariscos en regiones costeras y platos más pesados en zonas frías.
+      .tarjeta.color-secundario.p-4(titulo="Segmentación psicográfica")
+        h4 Segmentación psicográfica
+        p La segmentación psicográfica se basa en aspectos psicológicos y de estilo de vida de los consumidores, como sus intereses, valores, actitudes y personalidad. Esta técnica permite una comprensión más profunda de los comportamientos y motivaciones de los clientes.
+        p #[b Ejemplo práctico:] una empresa de ropa deportiva puede segmentar su mercado en función del estilo de vida de los consumidores, ofreciendo productos específicos para aquellos interesados en el fitness, el yoga o los deportes extremos.
+      .tarjeta.color-secundario.p-4(titulo="Segmentación conductual")
+        h4 Segmentación conductual
+        p La segmentación conductual clasifica a los consumidores según su comportamiento en relación con los productos o servicios, como hábitos de compra, lealtad a la marca, frecuencia de uso y beneficios buscados. Esta técnica se centra en cómo los clientes interactúan con los productos y servicios.
+        p #[b Ejemplo práctico:] una empresa de #[em software] puede segmentar su mercado en función de la frecuencia de uso del producto, ofreciendo paquetes básicos para usuarios ocasionales y paquetes premium para usuarios avanzados que requieren más funcionalidades.
+      .tarjeta.color-secundario.p-4(titulo="Segmentación por beneficios")
+        h4 Segmentación por beneficios
+        p La segmentación por beneficios divide a los consumidores en grupos basados en los beneficios específicos que buscan al comprar un producto o servicio. Esta técnica se enfoca en identificar las necesidades y deseos clave de los clientes.
+        p #[b Ejemplo práctico:] una empresa de productos de limpieza puede segmentar su mercado según los beneficios buscados, ofreciendo productos específicos para aquellos que buscan rapidez y eficacia, productos ecológicos para quienes valoran la sostenibilidad y productos de lujo para quienes buscan una experiencia de limpieza premium.
+      .tarjeta.color-secundario.p-4(titulo="Segmentación multivariable")
+        h4 Segmentación multivariable
+        p La segmentación multivariable utiliza múltiples variables demográficas, geográficas, psicográficas y conductuales para crear segmentos de mercado más detallados y precisos. Esta técnica permite una segmentación más completa y específica.
+        p #[b Ejemplo práctico:] un minorista en línea puede utilizar una combinación de variables para segmentar su mercado, como edad, ingresos, ubicación geográfica e intereses, para ofrecer recomendaciones de productos personalizadas y campañas de #[em marketing] dirigidas.
+    
+    p.mb-4(data-aos="fade-right") Las técnicas de segmentación sostienen una importancia manifiesta y en su estudio se recomienda tenerlas en cuenta, algunos motivos que resaltan la importancia del uso y aplicación de esas técnicas son las siguientes:
+
+    .row.mb-5.justify-content-center(data-aos="fade-left")
+      .col-sm-6.col-xl-3.mb-4.mb-xl-0
+        .tarjeta.tarjeta-slide.arriba.color-secundario(@mouseover="indicadorTarjetaSlide = false")
+          .indicador--hover(v-if="indicadorTarjetaSlide")
+          .tarjeta-slide__contenedor
+            .tarjeta-slide__contenido.p-4.p-xl-5
+              h4.text-center Eficiencia en la estrategia de #[em marketing]
+              p Permite a las empresas diseñar campañas de #[em marketing] más efectivas y eficientes, dirigidas a segmentos específicos del mercado.
+            .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema1/ico-5A.png')})`}")
+      .col-sm-6.col-xl-3.mb-4.mb-xl-0
+        .tarjeta.tarjeta-slide.arriba.color-secundario(@mouseover="indicadorTarjetaSlide = false")
+          .indicador--hover(v-if="indicadorTarjetaSlide")
+          .tarjeta-slide__contenedor
+            .tarjeta-slide__contenido.p-4.p-xl-5
+              h4.text-center Mejora de la satisfacción del cliente
+              p Al entender mejor las necesidades y deseos de los distintos segmentos, las empresas pueden ofrecer productos y servicios que realmente satisfagan las expectativas de sus clientes.
+            .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema1/ico-5B.png')})`}")
+      .col-sm-6.col-xl-3.mb-4.mb-xl-0
+        .tarjeta.tarjeta-slide.arriba.color-secundario(@mouseover="indicadorTarjetaSlide = false")
+          .indicador--hover(v-if="indicadorTarjetaSlide")
+          .tarjeta-slide__contenedor
+            .tarjeta-slide__contenido.p-4.p-xl-5
+              h4.text-center Identificación de nuevas oportunidades
+              p Ayuda a descubrir nichos de mercado que pueden ser explotados para obtener una ventaja competitiva.
+            .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema1/ico-5C.png')})`}")
+      .col-sm-6.col-xl-3.mb-4.mb-xl-0
+        .tarjeta.tarjeta-slide.arriba.color-secundario(@mouseover="indicadorTarjetaSlide = false")
+          .indicador--hover(v-if="indicadorTarjetaSlide")
+          .tarjeta-slide__contenedor
+            .tarjeta-slide__contenido.p-4.p-xl-5
+              h4.text-center Optimización de recursos
+              p Permite una asignación más eficiente de los recursos de #[em marketing] y ventas, enfocándose en los segmentos más rentables y con mayor potencial de crecimiento.
+            .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema1/ico-5D.png')})`}")
+
+    p.mb-5(data-aos="fade-right") La segmentación de mercados es una técnica poderosa que permite a las empresas conocer mejor a sus clientes y adaptar sus estrategias de marketing y ventas para satisfacer de manera más efectiva las necesidades específicas de cada segmento. Al utilizar diversas técnicas de segmentación, las empresas pueden identificar oportunidades de mercado, mejorar la satisfacción del cliente y optimizar sus recursos para maximizar sus beneficios.
 
 
 </template>
@@ -216,6 +397,7 @@ export default {
   components: {},
   data: () => ({
     // variables de vue
+    indicadorTarjetaSlide: true,
   }),
   mounted() {
     this.$nextTick(() => {
