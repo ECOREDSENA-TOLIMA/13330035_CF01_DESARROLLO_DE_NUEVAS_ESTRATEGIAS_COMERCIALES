@@ -192,28 +192,93 @@ export default {
   },
   complementario: [
     {
-      tema: 'Tema_complementario',
-      referencia: 'Referencia_complementario',
-      tipo: 'Tipo_complementario',
-      link: 'Link_complementario',
+      tema: '1.1.	Definición del perfil del cliente',
+      referencia:
+        'TEDx Talks (2022). Entendiendo al cliente. User Experience y Psicología | Blanca B. | TEDxUC3MLive.',
+      tipo: 'Video en línea',
+      link: 'https://www.youtube.com/watch?v=WYbh60FijSM',
     },
     {
-      tema: '',
-      referencia: '',
-      tipo: '',
-      descarga: '/downloads/prueba.pdf',
+      tema: '3.2. Personalización de la oferta comercial',
+      referencia:
+        'TEDx Talks (2018). Neuromarketing: somos lo que nos emociona | David Juárez Varón | TEDxAlcoi.',
+      tipo: 'Video en línea',
+      link: 'https://www.youtube.com/watch?v=tIAQtN8xer0',
     },
   ],
   glosario: [
     {
-      termino: 'Termino_glosario',
-      significado: 'Significado_glosario',
+      termino: 'Análisis de comportamiento',
+      significado:
+        'estudio de las interacciones y preferencias de los usuarios en plataformas digitales para identificar patrones de comportamiento y segmentar a los clientes de manera más precisa.',
+    },
+    {
+      termino: 'Análisis de mercado',
+      significado:
+        'evaluación detallada de la competencia, identificación de oportunidades de mercado y comprensión de las tendencias del sector para tomar decisiones informadas.',
+    },
+    {
+      termino: 'Ciclo de Vida del Producto (CVP)',
+      significado:
+        'etapas por las que pasa un producto desde su introducción en el mercado hasta su declive, cada una requiriendo estrategias específicas de <em>marketing</em>, producción y gestión.',
+    },
+    {
+      termino: 'Cliente Ideal (<em>Buyer</em> Persona)',
+      significado:
+        'representación semi-ficticia del cliente que mejor se ajusta a los productos o servicios ofrecidos por una empresa, basada en datos demográficos, psicográficos y comportamentales.',
+    },
+    {
+      termino: 'Datos demográficos',
+      significado:
+        'información cuantificable sobre la población, como edad, género, nivel educativo, ocupación y estado civil, utilizada para segmentar el mercado y comprender las características básicas de los clientes.',
+    },
+    {
+      termino: 'Datos psicográficos',
+      significado:
+        'información sobre los intereses, valores, estilos de vida, actitudes y personalidad de los clientes, utilizada para una segmentación más profunda y detallada.',
+    },
+    {
+      termino: 'Estrategias de fidelización',
+      significado:
+        'técnicas y acciones dirigidas a mantener a los clientes actuales comprometidos y satisfechos, incentivando su lealtad a largo plazo mediante programas de recompensas y personalización de la oferta.',
+    },
+    {
+      termino: 'Personalización',
+      significado:
+        'adaptación de productos, servicios y campañas de marketing para satisfacer las necesidades y preferencias individuales de los clientes, mejorando la experiencia del cliente y aumentando la lealtad.',
+    },
+    {
+      termino: 'Protección de datos personales',
+      significado:
+        'medidas legales y técnicas para garantizar la privacidad y seguridad de la información personal recopilada por las empresas, evitando el uso indebido y el acceso no autorizado.',
+    },
+    {
+      termino: 'Segmentación de mercados',
+      significado:
+        'proceso de dividir un mercado heterogéneo en grupos más pequeños y homogéneos que comparten características similares, permitiendo a las empresas adaptar sus estrategias de marketing y ventas.',
     },
   ],
   referencias: [
     {
-      referencia: 'Nombre_referencias',
-      link: 'Link_referencias',
+      referencia:
+        'Cooper, R. G. (2017). <em>Winning at New Products: Creating Value Through Innovation</em> (5th ed.). Basic Books.',
+      link: '',
+    },
+    {
+      referencia:
+        'Harvard Business Review (2024). 3 Ways to Clearly Communicate Your Company’s Strategy.',
+      link:
+        'https://hbr.org/2024/05/3-ways-to-clearly-communicate-your-companys-strategy',
+    },
+    {
+      referencia:
+        'Kotler, P., & Keller, K. L. (2019). <em>Marketing Management</em> (15th ed.). Pearson.',
+      link: '',
+    },
+    {
+      referencia:
+        'Revella, A. (2020). <em>Buyer Personas: How to Gain Insight into your Customer’s Expectations, Align your Marketing Strategies, and Win More Business.</em> Wiley.',
+      link: '',
     },
   ],
   creditos: [

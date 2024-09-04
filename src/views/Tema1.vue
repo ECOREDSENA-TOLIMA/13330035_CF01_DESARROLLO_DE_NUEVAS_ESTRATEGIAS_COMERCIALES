@@ -11,7 +11,7 @@
     
     .row.mb-4.fondo-1.p-4.justify-content-center.align-items-center
       .col-lg-6.col-md-8.col-12(data-aos="fade-right")
-        p.mb-2 El concepto de cliente ideal, también conocido como Buyer Persona, es una representación detallada y semi-ficticia del cliente que mejor se ajusta a los productos o servicios ofrecidos por una empresa. Este perfil se construye a partir de datos demográficos, psicográficos y comportamentales recopilados a través de diversas fuentes como encuestas, entrevistas y análisis de comportamiento en línea. Según Revella (2020), la creación de Buyer Personas permite a las empresas alinear sus estrategias de marketing y ventas con las expectativas y necesidades reales de los clientes, facilitando así una conexión más efectiva y personalizada con su audiencia objetivo.
+        p.mb-2 El concepto de cliente ideal, también conocido como Buyer Persona, es una representación detallada y semi-ficticia del cliente que mejor se ajusta a los productos o servicios ofrecidos por una empresa. Este perfil se construye a partir de datos demográficos, psicográficos y comportamentales recopilados a través de diversas fuentes como encuestas, entrevistas y análisis de comportamiento en línea. Según Revella (2020), la creación de Buyer Personas permite a las empresas alinear sus estrategias de #[em marketing] y ventas con las expectativas y necesidades reales de los clientes, facilitando así una conexión más efectiva y personalizada con su audiencia objetivo.
         p.mb-2 La relevancia de identificar al cliente ideal se ve reflejada en varios aspectos críticos del negocio, como el desarrollo de productos, la creación de contenido, la planificación de campañas de #[em marketing] y la mejora del servicio al cliente. Un estudio de la #[em Harvard Business Review] (2020) destaca que las empresas que implementan estrategias basadas en un profundo conocimiento de sus clientes pueden aumentar significativamente su retención y satisfacción, lo cual se traduce en un incremento en las ventas y la lealtad a la marca.
       .col-lg-4.col-md-4.col-12(data-aos="fade-right")
         figure
@@ -25,7 +25,7 @@
       .col-md-5(data-aos="fade-left") 
         img.mt-3(src='@/assets/curso/temas/tema1/img_2.png').mb-3
       .col-md-7(data-aos="fade-right") 
-        p El perfil de cliente ideal, también conocido como Buyer Persona, es una representación semi-ficticia basada en datos y características reales de los clientes más valiosos para una empresa. Este perfil ayuda a las organizaciones a entender mejor las necesidades y comportamientos de sus clientes, permitiendo diseñar estrategias de marketing y ventas más efectivas.
+        p El perfil de cliente ideal, también conocido como Buyer Persona, es una representación semi-ficticia basada en datos y características reales de los clientes más valiosos para una empresa. Este perfil ayuda a las organizaciones a entender mejor las necesidades y comportamientos de sus clientes, permitiendo diseñar estrategias de #[em marketing] y ventas más efectivas.
         p.cajon.color-secundario.p-4 Existen varios tipos de perfiles de clientes, pero los más comunes son los clientes B2B (#[em Business to Business]) y B2C (#[em Business to Consumer]). Cada tipo de cliente tiene características y necesidades específicas que deben ser comprendidas y abordadas de manera diferente.
         p Para crear un perfil de cliente efectivo, es fundamental considerar varios factores:
 
@@ -49,12 +49,11 @@
           img(src='@/assets/curso/temas/tema1/ico-1C.svg' alt='AvatarTop')
           .tarjeta.color-primario.w-100
             .p-4
-              h2.text-center Conductuales
+              h4.text-center Conductuales
               p Hábitos de compra, frecuencia de uso de productos o servicios, lealtad a la marca, entre otros.
 
     p.mb-2(data-aos="fade-down") Un estudio de la #[em Harvard Business Review] (2020) destaca la importancia de integrar datos tanto cualitativos como cuantitativos para una comprensión profunda del cliente.
     p.mb-4(data-aos="fade-down") Ejemplo: Una empresa de software educativo puede identificar a su cliente ideal como:
-
 
     .row.justify-content-center.align-items-center
       .col-12.col-md-10.d-none.d-sm-none.d-md-block(data-aos="zoom-in-down")
@@ -64,8 +63,8 @@
               img(src='@/assets/curso/temas/tema1/info-1A.svg', alt='')
           .tarjeta.color-acento-contenido.p-3(x="12.5%" y="26%" numero="+")
             .h5.mb-2 Edad y género
-            p 25-45 años
-              | Género: Indiferente.
+            p.mb-0 25-45 años
+            | Género: Indiferente.
           .tarjeta.color-acento-contenido.p-3(x="70%" y="26%" numero="+")
             .h5.mb-2 Intereses
             p Innovación educativa, tecnologías de la información, enseñanza en línea.
@@ -94,10 +93,33 @@
 
     p.mb-4(data-aos="zoom-in-down") El análisis de mercado es una herramienta fundamental para identificar clientes potenciales. Este análisis incluye la evaluación de la competencia, la identificación de oportunidades de mercado y la comprensión de las tendencias del sector. Algunas de las herramientas que se pueden usar en este apartado son:
 
-    p ##################
-    p ##################
+    .row.justify-content-center.mb-5
+      .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
+        .crd_hover_txt(data-aos="flip-left")
+          .crd_hover_txt--img
+            figure
+              img(src="@/assets/curso/temas/tema1/img_8.png", alt="alt")
+          .crd_hover_txt--body
+            h4.mb-3 Google Trends
+            p.mb-0 Permite ver las tendencias de búsqueda en Google, lo que ayuda a identificar intereses y comportamientos del mercado en tiempo real.
+      .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
+        .crd_hover_txt(data-aos="flip-left")
+          .crd_hover_txt--img
+            figure
+              img(src="@/assets/curso/temas/tema1/img_9.png", alt="alt")
+          .crd_hover_txt--body
+            h4.mb-3 SEMrush
+            p.mb-0 Ofrece análisis de la competencia, búsqueda de palabras clave y estudios de mercado para identificar oportunidades y amenazas en el sector.
+      .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
+        .crd_hover_txt(data-aos="flip-left")
+          .crd_hover_txt--img
+            figure
+              img(src="@/assets/curso/temas/tema1/img_10.png", alt="alt")
+          .crd_hover_txt--body
+            h4.mb-3 Statista
+            p.mb-0 Proporciona estadísticas y estudios de mercado sobre diversas industrias y mercados globales.
 
-    p.mb-2(data-aos="fade-down") Google Trends es una herramienta integral de marketing digital que ofrece funciones avanzadas para realizar análisis de mercado. Esta plataforma permite a las empresas obtener una visión detallada de su industria, analizar a la competencia, identificar oportunidades de crecimiento y evaluar tendencias del mercado.
+    p.mb-2(data-aos="fade-down") Google Trends es una herramienta integral de #[em marketing] digital que ofrece funciones avanzadas para realizar análisis de mercado. Esta plataforma permite a las empresas obtener una visión detallada de su industria, analizar a la competencia, identificar oportunidades de crecimiento y evaluar tendencias del mercado.
     p.mb-4(data-aos="fade-down") El paso a paso para usar Google Trends para análisis de mercado es el siguiente y se define a partir de un correo electrónico propio:
 
     .tarjeta--container.row.mb-5(data-aos="fade-down")
@@ -132,15 +154,15 @@
           b.fondo-2.px-3.py-1(data-aos="zoom-in-down") #[span ●] Para el uso en la generación y gestión de encuestas y entrevistas
       .col-lg-6.col-md-8.col-12(data-aos="fade-right")
         p.mb-2 Las encuestas y entrevistas son métodos efectivos para recopilar información directa de los clientes. Estas herramientas permiten obtener #[em insights] detallados sobre las preferencias, necesidades y problemas de los clientes. Según Kotler y Keller (2019), las encuestas bien diseñadas pueden proporcionar datos valiosos que son difíciles de obtener por otros medios. Las siguientes son algunas herramientas de referencia con las que se pueden hacer estos ejercicios: 
-        ul.lista-ul
+        ul.lista-ul--color
           li 
-            i.fas.fa-angle-right
+            i.fas.fas.fa-user-cog
             | #[b SurveyMonkey:] plataforma para crear encuestas en línea con una amplia variedad de plantillas y opciones de personalización.
           li 
-            i.fas.fa-angle-right
+            i.fas.fas.fa-user-cog
             | #[b Google Forms:] herramienta gratuita para diseñar encuestas y recopilar respuestas de manera sencilla y efectiva.
           li 
-            i.fas.fa-angle-right
+            i.fas.fas.fa-user-cog
             | #[b Typeform:] permite crear encuestas y formularios interactivos y atractivos, mejorando la tasa de respuesta.
       .col-lg-4.col-md-4.col-12(data-aos="fade-right")
         figure
@@ -182,7 +204,7 @@
               p Los #[em insights] obtenidos de las encuestas se utilizan para ajustar la estrategia de #[em marketing], mejorar los productos o servicios y personalizar las campañas de comunicación.
 
     p.mb-2(data-aos="fade-right") #[b Ejemplo práctico:] una empresa que vende productos de belleza naturales decide utilizar Google Forms para entender mejor las preferencias de sus clientes. Se diseña una encuesta con preguntas sobre sus productos favoritos, frecuencia de compra, preocupaciones sobre ingredientes y preferencias de envase. La encuesta se envía a los seguidores en Instagram y a los suscriptores del boletín de noticias.
-    p.mb-4(data-aos="fade-right") De los resultados, se descubre que una gran mayoría de los clientes prefieren productos con envases sostenibles y están interesados en ingredientes orgánicos. Con esta información, la empresa decide lanzar una nueva línea de productos con envases ecológicos y aumentar la transparencia sobre los ingredientes utilizados, además de ajustar las campañas de marketing para resaltar estos aspectos.
+    p.mb-4(data-aos="fade-right") De los resultados, se descubre que una gran mayoría de los clientes prefieren productos con envases sostenibles y están interesados en ingredientes orgánicos. Con esta información, la empresa decide lanzar una nueva línea de productos con envases ecológicos y aumentar la transparencia sobre los ingredientes utilizados, además de ajustar las campañas de #[em marketing] para resaltar estos aspectos.
 
 
 
