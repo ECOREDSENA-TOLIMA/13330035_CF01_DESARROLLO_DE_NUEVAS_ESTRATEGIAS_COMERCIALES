@@ -129,7 +129,7 @@
         div
           b.fondo-2.px-3.py-1(data-aos="zoom-in-down") #[span ●] Optimización de la estrategia de #[em marketing]
 
-    p.mb-4(data-aos="fade-right") Un portafolio bien gestionado facilita la creación de estrategias de marketing más efectivas y dirigidas. Al conocer las características y el rendimiento de cada producto, las empresas pueden diseñar campañas específicas que resalten los beneficios únicos de cada oferta.
+    p.mb-4(data-aos="fade-right") Un portafolio bien gestionado facilita la creación de estrategias de #[em marketing] más efectivas y dirigidas. Al conocer las características y el rendimiento de cada producto, las empresas pueden diseñar campañas específicas que resalten los beneficios únicos de cada oferta.
 
     .row.mb-4.justify-content-center.align-items-center
       .col-12(data-aos="fade-right")
@@ -143,14 +143,14 @@
           .tarjeta.color-primario.w-100
             .p-4
               h4.text-center Segmentación
-              p Permite una segmentación más precisa del mercado, dirigiendo campañas de marketing a los grupos de consumidores más relevantes.
+              p Permite una segmentación más precisa del mercado, dirigiendo campañas de #[em marketing] a los grupos de consumidores más relevantes.
       .col-md-6.col-lg.mb-3.mb-lg-0(data-aos="fade-down")
         .tarjeta-avatar 
           img(src='@/assets/curso/temas/tema5/ico-2B.svg' alt='AvatarTop')
           .tarjeta.color-primario.w-100
             .p-4
               h4.text-center Personalización
-              p Facilita la personalización de mensajes y promociones, aumentando la eficacia de las campañas de marketing.
+              p Facilita la personalización de mensajes y promociones, aumentando la eficacia de las campañas de #[em marketing].
       .col-md-6.col-lg.mb-3.mb-lg-0(data-aos="fade-down")
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema5/ico-2C.svg' alt='AvatarTop')
@@ -159,7 +159,7 @@
               h4.text-center Medición de resultados
               p Mejora la capacidad de medir y analizar el rendimiento de las campañas, ajustando estrategias para maximizar el retorno de inversión (ROI).
 
-    p.mb-4(data-aos="fade-right") #[b Ejemplo:] una empresa de productos de cuidado personal puede utilizar datos sobre el rendimiento de sus diferentes líneas de productos para diseñar campañas de marketing específicas para cada segmento de consumidores, como adolescentes, adultos jóvenes y personas mayores.
+    p.mb-4(data-aos="fade-right") #[b Ejemplo:] una empresa de productos de cuidado personal puede utilizar datos sobre el rendimiento de sus diferentes líneas de productos para diseñar campañas de #[em marketing] específicas para cada segmento de consumidores, como adolescentes, adultos jóvenes y personas mayores.
 
     Separador
     #t_5_1.titulo-segundo.color-primario(data-aos="fade-right")
@@ -192,13 +192,13 @@
                 td La estrategia de precios y promociones es un componente crucial del portafolio que determina cómo se fijan los precios de los productos y qué promociones se utilizan para atraer a los clientes. Esta estrategia debe considerar factores como los costos, la competencia, la demanda del mercado y los objetivos de rentabilidad.
                 td Una tienda de moda puede establecer una estrategia de precios basada en temporadas, ofreciendo descuentos en productos de la temporada anterior para hacer espacio para las nuevas colecciones.
               
-    p.mb-4(data-aos="fade-right") El análisis del ciclo de vida del producto (CVP) es una herramienta fundamental en la gestión de productos que permite a las empresas entender las distintas etapas por las que pasa un producto desde su introducción en el mercado hasta su declive. Cada etapa del ciclo de vida requiere estrategias específicas de marketing, producción y gestión para maximizar el éxito del producto y la rentabilidad de la empresa.
+    p.mb-4(data-aos="fade-right") El análisis del ciclo de vida del producto (CVP) es una herramienta fundamental en la gestión de productos que permite a las empresas entender las distintas etapas por las que pasa un producto desde su introducción en el mercado hasta su declive. Cada etapa del ciclo de vida requiere estrategias específicas de #[em marketing], producción y gestión para maximizar el éxito del producto y la rentabilidad de la empresa.
 
     Separador
     #t_5_2.titulo-segundo.color-primario(data-aos="fade-right")
       h2 5.2 Ciclo de vida del producto
 
-    p.mb-4(data-aos="fade-right") Comprender las fases del ciclo de vida del producto es fundamental para la gestión eficaz de cualquier oferta en el mercado. Cada producto pasa por una serie de etapas, desde su introducción hasta su eventual declive, y cada una de estas fases presenta desafíos y oportunidades únicas. Identificar en qué fase se encuentra un producto permite a las empresas desarrollar estrategias específicas de marketing, producción y gestión que maximicen su rentabilidad y prolonguen su éxito en el mercado. Este enfoque estructurado ayuda a optimizar los recursos y a tomar decisiones informadas que alineen los esfuerzos comerciales con las demandas cambiantes del mercado y las expectativas de los consumidores. A continuación, se detallan las fases del ciclo de vida del producto y las estrategias recomendadas para cada etapa.
+    p.mb-4(data-aos="fade-right") Comprender las fases del ciclo de vida del producto es fundamental para la gestión eficaz de cualquier oferta en el mercado. Cada producto pasa por una serie de etapas, desde su introducción hasta su eventual declive, y cada una de estas fases presenta desafíos y oportunidades únicas. Identificar en qué fase se encuentra un producto permite a las empresas desarrollar estrategias específicas de #[em marketing], producción y gestión que maximicen su rentabilidad y prolonguen su éxito en el mercado. Este enfoque estructurado ayuda a optimizar los recursos y a tomar decisiones informadas que alineen los esfuerzos comerciales con las demandas cambiantes del mercado y las expectativas de los consumidores. A continuación, se detallan las fases del ciclo de vida del producto y las estrategias recomendadas para cada etapa.
 
     .row.mb-4.justify-content-center.align-items-center
       .col-12(data-aos="fade-right")
@@ -215,7 +215,7 @@
               p.mb-1 #[b #[em Marketing]:] fuerte enfoque en la promoción y la publicidad para generar conciencia y demanda del producto.
               p.mb-1 #[b Precios:] estrategia de penetración con precios bajos para atraer clientes rápidamente, o estrategia de precios altos para recuperar rápidamente los costos de desarrollo.
               p.mb-3 #[b Distribución:] limitada al principio, ampliándose gradualmente a medida que el producto gana aceptación.
-              p #[b Ejemplo:] el lanzamiento de un nuevo modelo de smartphone que requiere una campaña de marketing intensiva para educar a los consumidores sobre sus características innovadoras.
+              p #[b Ejemplo:] el lanzamiento de un nuevo modelo de smartphone que requiere una campaña de #[em marketing] intensiva para educar a los consumidores sobre sus características innovadoras.
             .col-12
               figure
                 img(src='@/assets/curso/temas/tema5/img_4.png', alt='')
@@ -223,7 +223,7 @@
             .col-12.mb-4.mb-md-0
               p.mb-3 #[b Características:] el producto comienza a ganar aceptación en el mercado, las ventas aumentan rápidamente y la empresa puede empezar a beneficiarse de economías de escala.
               p.mb-3 #[b Estrategias:]
-              p.mb-1 #[b #[em Marketing]:] aumento del gasto en marketing para fortalecer la marca y diferenciar el producto de los competidores.
+              p.mb-1 #[b #[em Marketing]:] aumento del gasto en #[em marketing] para fortalecer la marca y diferenciar el producto de los competidores.
               p.mb-1 #[b Precios:] ajustes en la estrategia de precios para equilibrar entre capturar mercado y maximizar los márgenes.
               p.mb-3 #[b Distribución:] expansión a nuevos canales de distribución y mercados geográficos.
               p #[b Ejemplo:] un #[em software] de gestión de proyectos que, tras su lanzamiento, empieza a ser adoptado por empresas y organizaciones, incrementando rápidamente su base de usuarios.
@@ -234,7 +234,7 @@
             .col-12.mb-4.mb-md-0
               p.mb-3 #[b Características:] las ventas alcanzan su punto máximo y el crecimiento se ralentiza. El mercado se satura y la competencia se intensifica.
               p.mb-3 #[b Estrategias:]
-              p.mb-1 #[b #[em Marketing]:] enfoque en la fidelización del cliente y en el marketing relacional. Promociones y descuentos para mantener el interés del consumidor.
+              p.mb-1 #[b #[em Marketing]:] enfoque en la fidelización del cliente y en el #[em marketing] relacional. Promociones y descuentos para mantener el interés del consumidor.
               p.mb-1 #[b Precios:] ajuste de precios para enfrentar la competencia, manteniendo la rentabilidad.
               p.mb-3 #[b Distribución:] maximización de la cobertura de distribución, optimizando la cadena de suministro.
               p #[b Ejemplo:] un automóvil de una marca establecida que ha alcanzado una cuota de mercado significativa y ahora se centra en mantener su base de clientes a través de programas de lealtad y actualizaciones de modelos.
@@ -245,7 +245,7 @@
             .col-12.mb-4.mb-md-0
               p.mb-3 #[b Características:] las ventas disminuyen debido a la saturación del mercado, la obsolescencia tecnológica o cambios en las preferencias del consumidor. La rentabilidad se reduce y el producto puede ser retirado del mercado.
               p.mb-3 #[b Estrategias:] 
-              p.mb-1 #[b #[em Marketing]:] reducción del gasto en marketing. Promociones para liquidar inventarios.
+              p.mb-1 #[b #[em Marketing]:] reducción del gasto en #[em marketing]. Promociones para liquidar inventarios.
               p.mb-1 #[b Precios:] descuentos significativos para vender el #[em stock] restante.
               p.mb-3 #[b Distribución:] reducción de los canales de distribución y enfoque en mercados de nicho o segmentos específicos.
               p #[b Ejemplo:] un modelo de teléfono móvil antiguo que es reemplazado por nuevas tecnologías y ahora se vende a precios reducidos en mercados secundarios.
@@ -253,7 +253,7 @@
               figure
                 img(src='@/assets/curso/temas/tema5/img_7.png', alt='')
 
-    p.mb-4(data-aos="fade-right") Cada etapa del ciclo de vida del producto requiere un enfoque estratégico único para maximizar el éxito y la rentabilidad del producto. Desde la introducción hasta el declive, las condiciones del mercado, las expectativas de los consumidores y los desafíos competitivos cambian drásticamente. Por lo tanto, es esencial que las empresas adapten sus estrategias de marketing, precios, distribución y gestión de producto a la fase específica en la que se encuentra su oferta. Desarrollar y ejecutar estrategias adecuadas para cada fase del ciclo de vida no solo ayuda a optimizar el rendimiento del producto en el mercado, sino que también permite a las empresas responder de manera proactiva a las dinámicas cambiantes del entorno empresarial. A continuación, se describen las estrategias recomendadas para cada fase del ciclo de vida del producto, proporcionando una guía práctica para mantener la competitividad y relevancia en el mercado.
+    p.mb-4(data-aos="fade-right") Cada etapa del ciclo de vida del producto requiere un enfoque estratégico único para maximizar el éxito y la rentabilidad del producto. Desde la introducción hasta el declive, las condiciones del mercado, las expectativas de los consumidores y los desafíos competitivos cambian drásticamente. Por lo tanto, es esencial que las empresas adapten sus estrategias de #[em marketing], precios, distribución y gestión de producto a la fase específica en la que se encuentra su oferta. Desarrollar y ejecutar estrategias adecuadas para cada fase del ciclo de vida no solo ayuda a optimizar el rendimiento del producto en el mercado, sino que también permite a las empresas responder de manera proactiva a las dinámicas cambiantes del entorno empresarial. A continuación, se describen las estrategias recomendadas para cada fase del ciclo de vida del producto, proporcionando una guía práctica para mantener la competitividad y relevancia en el mercado.
 
     .row.mb-4.justify-content-center.align-items-center
       .col-12(data-aos="fade-right")
@@ -268,7 +268,7 @@
               img(src="@/assets/curso/temas/tema5/img_1A.png", alt="alt")
           .crd_hover_txt--body
             h4.mb-3 Introducción
-            p.mb-0 #[b Enfoque en la promoción:] desarrollar campañas de marketing intensivas para crear conciencia y estimular la demanda inicial.
+            p.mb-0 #[b Enfoque en la promoción:] desarrollar campañas de #[em marketing] intensivas para crear conciencia y estimular la demanda inicial.
             p.mb-0 #[b Educación del mercado:] esforzarse en educar a los consumidores sobre los beneficios y características del nuevo producto.
       .col-xl-3.col-lg-3.col-md-6.col-12.mb-4.mb-xl-0
         .crd_hover_txt(data-aos="flip-left")

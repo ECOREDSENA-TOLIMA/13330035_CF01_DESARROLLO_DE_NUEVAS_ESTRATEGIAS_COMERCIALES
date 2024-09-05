@@ -53,7 +53,7 @@
               p Hábitos de compra, frecuencia de uso de productos o servicios, lealtad a la marca, entre otros.
 
     p.mb-2(data-aos="fade-down") Un estudio de la #[em Harvard Business Review] (2020) destaca la importancia de integrar datos tanto cualitativos como cuantitativos para una comprensión profunda del cliente.
-    p.mb-4(data-aos="fade-down") Ejemplo: Una empresa de software educativo puede identificar a su cliente ideal como:
+    p.mb-4(data-aos="fade-down") Ejemplo: Una empresa de #[em software] educativo puede identificar a su cliente ideal como:
 
     .row.justify-content-center.align-items-center
       .col-12.col-md-10.d-none.d-sm-none.d-md-block(data-aos="zoom-in-down")
@@ -146,7 +146,7 @@
         p La herramienta proporciona informes sobre tendencias de búsqueda y comportamiento del usuario, lo que te permite anticipar cambios en el mercado y ajustar tu estrategia en consecuencia.
 
 
-    p.mb-4(data-aos="fade-down") #[b Ejemplo práctico:] suponga que una empresa vende software de gestión de proyectos. Se usa Google Trends para investigar las palabras clave "software de gestión de proyectos", "herramientas de colaboración en equipo" y "software de productividad". Con la búsqueda se descubre que los competidores principales están generando mucho tráfico a través de blogs educativos y comparaciones de productos. En ese momento se toma la decisión de crear contenido similar y optimizarlo para las palabras clave identificadas, además de lanzar una campaña de consecución de prospectos dirigida a las mismas.
+    p.mb-4(data-aos="fade-down") #[b Ejemplo práctico:] suponga que una empresa vende #[em software] de gestión de proyectos. Se usa Google Trends para investigar las palabras clave "#[em software] de gestión de proyectos", "herramientas de colaboración en equipo" y "#[em software] de productividad". Con la búsqueda se descubre que los competidores principales están generando mucho tráfico a través de blogs educativos y comparaciones de productos. En ese momento se toma la decisión de crear contenido similar y optimizarlo para las palabras clave identificadas, además de lanzar una campaña de consecución de prospectos dirigida a las mismas.
 
     .row.mb-4.fondo-1.p-4.justify-content-center.align-items-center
       .col-lg-10.col-12
