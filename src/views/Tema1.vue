@@ -253,6 +253,7 @@
             .col
               h5 BuzzSumo
               p Herramienta que permite analizar el contenido más compartido en redes sociales y entender qué tipo de contenido atrae a la audiencia.
+    
     p.mb-2(data-aos="fade-right") #[b Ejemplo:] una tienda en línea de productos de belleza puede utilizar herramientas de análisis de redes sociales para identificar a personas que siguen cuentas relacionadas con el cuidado de la piel y la belleza, interactúan con contenido sobre maquillaje y publican reseñas de productos de belleza.
 
     Separador

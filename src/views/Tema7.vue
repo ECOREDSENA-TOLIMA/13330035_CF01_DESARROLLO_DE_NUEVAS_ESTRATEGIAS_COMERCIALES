@@ -159,7 +159,7 @@
     .row.mb-4.justify-content-center.align-items-center
       .col-12.col-md-11.col-lg-9(data-aos="fade-right")
         .titulo-sexto.color-acento-contenido(data-aos="zoom-in-right")
-          p.titulo.pb-0.mb-0 <b>Tabla 2. </b> <i>Servicios financieros</i>
+          p.pb-0.mb-0 <b>Tabla 2. </b> <em style="color:black">Servicios financieros</em>
         .tabla-b.color-acento-contenido.mb-5
           table
             thead
