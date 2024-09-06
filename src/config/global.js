@@ -1,6 +1,6 @@
 export default {
   global: {
-    componenteFormativo: 'Desarrollo de nuevas estrategias comerciales',
+    componenteFormativo: 'Identificación y análisis del cliente ideal',
     descripcionCurso:
       'Este componente se enfoca en la identificación del cliente ideal a través de la creación de perfiles detallados y el uso de herramientas y técnicas de análisis. Permite a las empresas personalizar sus estrategias comerciales, optimizar recursos y maximizar beneficios mediante el conocimiento profundo de sus clientes actuales y potenciales.',
     imagenBannerPrincipal: require('@/assets/curso/portada/banner-princiapal.png'),

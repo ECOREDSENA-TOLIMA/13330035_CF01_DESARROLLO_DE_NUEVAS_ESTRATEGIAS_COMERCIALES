@@ -1,1 +1,1 @@
-module.exports = 'Desarrollo de nuevas estrategias comerciales'
+module.exports = 'Identificación y análisis del cliente ideal'
