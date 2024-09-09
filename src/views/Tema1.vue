@@ -10,10 +10,10 @@
     p.mb-4(data-aos="fade-right") En el entorno competitivo y dinámico del mercado actual, la identificación del cliente ideal es una estrategia crucial para el éxito de cualquier empresa. Conocer a fondo quiénes son los clientes más valiosos permite a las empresas no solo atraer y retener a esos clientes, sino también optimizar sus recursos y maximizar sus beneficios. La identificación del cliente ideal implica un análisis detallado y sistemático de las características, comportamientos y necesidades de los clientes actuales y potenciales, permitiendo así diseñar estrategias comerciales personalizadas y efectivas.
     
     .row.mb-4.fondo-1.p-4.justify-content-center.align-items-center
-      .col-lg-6.col-md-8.col-12(data-aos="fade-right")
-        p.mb-2 El concepto de cliente ideal, también conocido como Buyer Persona, es una representación detallada y semi-ficticia del cliente que mejor se ajusta a los productos o servicios ofrecidos por una empresa. Este perfil se construye a partir de datos demográficos, psicográficos y comportamentales recopilados a través de diversas fuentes como encuestas, entrevistas y análisis de comportamiento en línea. Según Revella (2020), la creación de Buyer Personas permite a las empresas alinear sus estrategias de #[em marketing] y ventas con las expectativas y necesidades reales de los clientes, facilitando así una conexión más efectiva y personalizada con su audiencia objetivo.
+      .col-lg-6.order-lg-1.order-2.col-12(data-aos="fade-right")
+        p.mb-2 El concepto de cliente ideal, también conocido como #[em buyer] persona, es una representación detallada y semi-ficticia del cliente que mejor se ajusta a los productos o servicios ofrecidos por una empresa. Este perfil se construye a partir de datos demográficos, psicográficos y comportamentales recopilados a través de diversas fuentes como encuestas, entrevistas y análisis de comportamiento en línea. Según Revella (2020), la creación de #[em buyer] personas permite a las empresas alinear sus estrategias de #[em marketing] y ventas con las expectativas y necesidades reales de los clientes, facilitando así una conexión más efectiva y personalizada con su audiencia objetivo.
         p.mb-2 La relevancia de identificar al cliente ideal se ve reflejada en varios aspectos críticos del negocio, como el desarrollo de productos, la creación de contenido, la planificación de campañas de #[em marketing] y la mejora del servicio al cliente. Un estudio de la #[em Harvard Business Review] (2020) destaca que las empresas que implementan estrategias basadas en un profundo conocimiento de sus clientes pueden aumentar significativamente su retención y satisfacción, lo cual se traduce en un incremento en las ventas y la lealtad a la marca.
-      .col-lg-4.col-md-4.col-12(data-aos="fade-right")
+      .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-right")
         figure
           img(src='@/assets/curso/temas/tema1/img_1.png', alt='')
 
@@ -25,11 +25,11 @@
       .col-md-5(data-aos="fade-left") 
         img.mt-3(src='@/assets/curso/temas/tema1/img_2.png').mb-3
       .col-md-7(data-aos="fade-right") 
-        p El perfil de cliente ideal, también conocido como Buyer Persona, es una representación semi-ficticia basada en datos y características reales de los clientes más valiosos para una empresa. Este perfil ayuda a las organizaciones a entender mejor las necesidades y comportamientos de sus clientes, permitiendo diseñar estrategias de #[em marketing] y ventas más efectivas.
+        p El perfil de cliente ideal, también conocido como #[em buyer] persona, es una representación semi-ficticia basada en datos y características reales de los clientes más valiosos para una empresa. Este perfil ayuda a las organizaciones a entender mejor las necesidades y comportamientos de sus clientes, permitiendo diseñar estrategias de #[em marketing] y ventas más efectivas.
         p.cajon.color-secundario.p-4 Existen varios tipos de perfiles de clientes, pero los más comunes son los clientes B2B (#[em Business to Business]) y B2C (#[em Business to Consumer]). Cada tipo de cliente tiene características y necesidades específicas que deben ser comprendidas y abordadas de manera diferente.
         p Para crear un perfil de cliente efectivo, es fundamental considerar varios factores:
 
-    .row.align-items-center.justify-content-center.mb-4
+    .row.h-100.justify-content-center.mb-4
       .col-md-6.col-lg.mb-3.mb-lg-0(data-aos="fade-down")
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema1/ico-1A.svg' alt='AvatarTop')
@@ -62,17 +62,17 @@
             figure
               img(src='@/assets/curso/temas/tema1/info-1A.svg', alt='')
           .tarjeta.color-acento-contenido.p-3(x="12.5%" y="26%" numero="+")
-            .h5.mb-2 Edad y género
+            //- .h5.mb-2 Edad y género
             p.mb-0 25-45 años
             | Género: Indiferente.
           .tarjeta.color-acento-contenido.p-3(x="70%" y="26%" numero="+")
-            .h5.mb-2 Intereses
+            //- .h5.mb-2 Intereses
             p Innovación educativa, tecnologías de la información, enseñanza en línea.
           .tarjeta.color-acento-contenido.p-3(x="73%" y="57%" numero="+")
-            .h5.mb-2 Conducta
+            //- .h5.mb-2 Conducta
             p Utiliza regularmente plataformas de e-learning, busca constantemente nuevas herramientas educativas, es activo en foros y comunidades educativas en línea.
           .tarjeta.color-acento-contenido.p-3(x="10%" y="57%" numero="+")
-            .h5.mb-2 Nivel Educativo
+            //- .h5.mb-2 Nivel Educativo
             p Universitario.
       .col-12.d-block.d-md-none
         .row 
@@ -148,23 +148,23 @@
 
     p.mb-4(data-aos="fade-down") #[b Ejemplo práctico:] suponga que una empresa vende #[em software] de gestión de proyectos. Se usa Google Trends para investigar las palabras clave "#[em software] de gestión de proyectos", "herramientas de colaboración en equipo" y "#[em software] de productividad". Con la búsqueda se descubre que los competidores principales están generando mucho tráfico a través de blogs educativos y comparaciones de productos. En ese momento se toma la decisión de crear contenido similar y optimizarlo para las palabras clave identificadas, además de lanzar una campaña de consecución de prospectos dirigida a las mismas.
 
-    .row.mb-4.fondo-1.p-4.justify-content-center.align-items-center
+    .row.mb-4.p-4.justify-content-center.align-items-center
       .col-lg-10.col-12
         div.mb-4
           b.fondo-2.px-3.py-1(data-aos="zoom-in-down") #[span ●] Para el uso en la generación y gestión de encuestas y entrevistas
-      .col-lg-6.col-md-8.col-12(data-aos="fade-right")
+      .col-lg-6.col-12.order-lg-1.order-2(data-aos="fade-right")
         p.mb-2 Las encuestas y entrevistas son métodos efectivos para recopilar información directa de los clientes. Estas herramientas permiten obtener #[em insights] detallados sobre las preferencias, necesidades y problemas de los clientes. Según Kotler y Keller (2019), las encuestas bien diseñadas pueden proporcionar datos valiosos que son difíciles de obtener por otros medios. Las siguientes son algunas herramientas de referencia con las que se pueden hacer estos ejercicios: 
         ul.lista-ul--color
           li 
             i.fas.fas.fa-user-cog
-            | #[b SurveyMonkey:] plataforma para crear encuestas en línea con una amplia variedad de plantillas y opciones de personalización.
+            p.mb-0 #[b SurveyMonkey:] plataforma para crear encuestas en línea con una amplia variedad de plantillas y opciones de personalización.
           li 
             i.fas.fas.fa-user-cog
-            | #[b Google Forms:] herramienta gratuita para diseñar encuestas y recopilar respuestas de manera sencilla y efectiva.
+            p.mb-0 #[b Google Forms:] herramienta gratuita para diseñar encuestas y recopilar respuestas de manera sencilla y efectiva.
           li 
             i.fas.fas.fa-user-cog
-            | #[b Typeform:] permite crear encuestas y formularios interactivos y atractivos, mejorando la tasa de respuesta.
-      .col-lg-4.col-md-4.col-12(data-aos="fade-right")
+            p.mb-0 #[b Typeform:] permite crear encuestas y formularios interactivos y atractivos, mejorando la tasa de respuesta.
+      .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-right")
         figure
           img(src='@/assets/curso/temas/tema1/img_3.png', alt='')
 
@@ -292,10 +292,10 @@
 
     p.mb-4(data-aos="fade-right") Hacer segmentación de mercados es de gran importancia por temas logísticos y económicos de las empresas, son muchos los factores que se trabajan en relación a beneficios empresariales, los siguientes son solo algunos de esos beneficios:
 
-    .row.mb-5.justify-content-center.align-items-center(data-aos="fade-left")
+    .row.mb-5.justify-content-center.h-100(data-aos="fade-left")
       .col-md-6.col-lg.tarjeta--tabla.tarjetas.color-primario.p-4
         .row.justify-content-center.mb-3
-          .col-4.mb-4
+          .col-4
             img(src='@/assets/curso/temas/tema1/ico-4A.svg' alt='AvatarTop')
         h5.text-center Eficiencia en el uso de recursos
         p.text-center Permite a las empresas enfocar sus esfuerzos y recursos en los segmentos más rentables y con mayor potencial de crecimiento.
@@ -307,7 +307,7 @@
         p.text-center Facilita la creación de estrategias de #[em marketing] personalizadas que resuenan mejor con las necesidades y deseos específicos de cada segmento.
       .col-md-6.col-lg.tarjeta--tabla.tarjetas.color-primario.p-4
         .row.justify-content-center.mb-3
-          .col-4.mb-4
+          .col-4
             img(src='@/assets/curso/temas/tema1/ico-4C.svg' alt='AvatarTop')
         h5.text-center Mejora de la satisfacción del cliente
         p.text-center Al abordar las necesidades específicas de cada segmento, se puede mejorar significativamente la satisfacción y lealtad del cliente.

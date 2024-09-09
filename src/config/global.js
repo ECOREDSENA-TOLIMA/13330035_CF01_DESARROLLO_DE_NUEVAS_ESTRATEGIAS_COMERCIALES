@@ -223,7 +223,7 @@ export default {
         'etapas por las que pasa un producto desde su introducción en el mercado hasta su declive, cada una requiriendo estrategias específicas de <em>marketing</em>, producción y gestión.',
     },
     {
-      termino: 'Cliente Ideal (<em>Buyer</em> Persona)',
+      termino: 'Cliente Ideal (<em>buyer</em> persona)',
       significado:
         'representación semi-ficticia del cliente que mejor se ajusta a los productos o servicios ofrecidos por una empresa, basada en datos demográficos, psicográficos y comportamentales.',
     },
@@ -277,7 +277,7 @@ export default {
     },
     {
       referencia:
-        'Revella, A. (2020). <em>Buyer Personas: How to Gain Insight into your Customer’s Expectations, Align your Marketing Strategies, and Win More Business.</em> Wiley.',
+        'Revella, A. (2020). <em>Buyer personas: How to Gain Insight into your Customer’s Expectations, Align your Marketing Strategies, and Win More Business.</em> Wiley.',
       link: '',
     },
   ],

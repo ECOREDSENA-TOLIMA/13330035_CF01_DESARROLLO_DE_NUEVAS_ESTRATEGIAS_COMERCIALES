@@ -21,7 +21,7 @@
 
     p.mb-4(data-aos="fade-left") Estos productos están diseñados para ayudar a los clientes a guardar su dinero de manera segura y obtener rendimientos a través de intereses. Incluyen:
 
-    .row.align-items-center.justify-content-center.mb-4
+    .row.h-100.justify-content-center.mb-4
       .col-md-6.col-lg.mb-3.mb-lg-0(data-aos="fade-down")
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema7/ico-1A.svg' alt='AvatarTop')
@@ -51,7 +51,7 @@
 
     p.mb-4(data-aos="fade-left") Los productos de crédito facilitan el acceso a financiamiento para individuos y empresas. Entre ellos se encuentran:
 
-    .row.align-items-center.justify-content-center.mb-5(data-aos="fade-left")
+    .row.h-100.justify-content-center.mb-5(data-aos="fade-left")
       .col-md-6.col-lg.tarjeta--tabla.tarjetas.color-primario.p-4
         .row.justify-content-center.mb-3
           .col-4.mb-2
@@ -88,13 +88,13 @@
         ul.lista-ul--color
           li 
             i.fas.fa-user-cog
-            | #[b Fondos de inversión:] permiten a los clientes invertir en una cartera diversificada de activos, administrada por expertos. Estos fondos pueden ser de renta fija, renta variable, o mixtos.
+            p.mb-0 #[b Fondos de inversión:] permiten a los clientes invertir en una cartera diversificada de activos, administrada por expertos. Estos fondos pueden ser de renta fija, renta variable, o mixtos.
           li 
             i.fas.fa-user-cog
-            | #[b Acciones:] ofrecen la posibilidad de comprar participaciones en empresas, con el potencial de obtener rendimientos a través de dividendos y el aumento en el valor de las acciones.
+            p.mb-0 #[b Acciones:] ofrecen la posibilidad de comprar participaciones en empresas, con el potencial de obtener rendimientos a través de dividendos y el aumento en el valor de las acciones.
           li 
             i.fas.fa-user-cog
-            | #[b Bonos:] son instrumentos de deuda que generan intereses fijos, emitidos por gobiernos o empresas.
+            p.mb-0 #[b Bonos:] son instrumentos de deuda que generan intereses fijos, emitidos por gobiernos o empresas.
        
     .row.mb-4.justify-content-center.align-items-center
       .col-lg-10.col-12(data-aos="fade-right")
@@ -109,16 +109,16 @@
             ul.lista-ul--color.mb-0
               li 
                 i.fas.fa-user-cog
-                | #[b Seguros de vida:] proporcionan una suma asegurada a los beneficiarios en caso de fallecimiento del titular.
+                p.mb-0 #[b Seguros de vida:] proporcionan una suma asegurada a los beneficiarios en caso de fallecimiento del titular.
               li 
                 i.fas.fa-user-cog
-                | #[b Seguros de salud:] cubren gastos médicos y hospitalarios.
+                p.mb-0 #[b Seguros de salud:] cubren gastos médicos y hospitalarios.
               li 
                 i.fas.fa-user-cog
-                | #[b Seguros de automóviles:] protegen contra daños o pérdidas de vehículos.
+                p.mb-0 #[b Seguros de automóviles:] protegen contra daños o pérdidas de vehículos.
               li
                 i.fas.fa-user-cog
-                | #[b Seguros de hogar:] ofrecen cobertura contra daños a la propiedad residencial. 
+                p.mb-0 #[b Seguros de hogar:] ofrecen cobertura contra daños a la propiedad residencial. 
   
     .row.mb-4.justify-content-center.align-items-center
       .col-12(data-aos="fade-right")

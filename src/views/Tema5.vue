@@ -17,13 +17,13 @@
         ul.lista-ul--color
           li 
             i.fas.fas.fa-user-cog
-            | #[b Diversificación del riesgo:] un portafolio diversificado ayuda a mitigar el riesgo, ya que el desempeño de la empresa no depende de un solo producto o línea de productos.
+            p.mb-0 #[b Diversificación del riesgo:] un portafolio diversificado ayuda a mitigar el riesgo, ya que el desempeño de la empresa no depende de un solo producto o línea de productos.
           li 
             i.fas.fas.fa-user-cog
-            | #[b Alineación estratégica:] permite a la empresa alinear sus productos y servicios con su estrategia corporativa, asegurando que cada oferta contribuye a los objetivos a largo plazo.
+            p.mb-0 #[b Alineación estratégica:] permite a la empresa alinear sus productos y servicios con su estrategia corporativa, asegurando que cada oferta contribuye a los objetivos a largo plazo.
           li 
             i.fas.fas.fa-user-cog
-            | #[b Respuesta al mercado:] facilita una respuesta rápida y eficaz a las demandas y tendencias del mercado, permitiendo la adaptación de la oferta según las necesidades de los clientes.
+            p.mb-0 #[b Respuesta al mercado:] facilita una respuesta rápida y eficaz a las demandas y tendencias del mercado, permitiendo la adaptación de la oferta según las necesidades de los clientes.
 
     .row.mb-4.justify-content-center.align-items-center
       .col-md-10.col-12(data-aos="fade-right")
@@ -44,13 +44,13 @@
         ul.lista-ul--color
           li 
             i.fas.fa-user-cog
-            | #[b Estabilidad financiera:] diversificar el portafolio ayuda a mantener un flujo constante de ingresos, incluso si un producto específico enfrenta una disminución en la demanda.
+            .mb-0 #[b Estabilidad financiera:] diversificar el portafolio ayuda a mantener un flujo constante de ingresos, incluso si un producto específico enfrenta una disminución en la demanda.
           li 
             i.fas.fa-user-cog
-            | #[b Flexibilidad:] las empresas pueden adaptarse más fácilmente a los cambios en el mercado al tener múltiples fuentes de ingresos.
+            .mb-0 #[b Flexibilidad:] las empresas pueden adaptarse más fácilmente a los cambios en el mercado al tener múltiples fuentes de ingresos.
           li 
             i.fas.fa-user-cog
-            | #[b Innovación:] fomenta la innovación y el desarrollo de nuevos productos, permitiendo a las empresas mantenerse relevantes y competitivas.
+            .mb-0 #[b Innovación:] fomenta la innovación y el desarrollo de nuevos productos, permitiendo a las empresas mantenerse relevantes y competitivas.
         .cajon.color-secundario.p-4
           p.mb-0 #[b Ejemplo:] una empresa tecnológica que ofrece tanto #[em hardware] (computadoras, tabletas) como #[em software] (aplicaciones, servicios en la nube) puede equilibrar sus ingresos y continuar creciendo incluso si uno de los segmentos enfrenta dificultades.
       .col-lg-4.col-md-4.col-12(data-aos="fade-right")
@@ -69,7 +69,7 @@
         div
           b.text-1.py-1(data-aos="zoom-in-down") #[span ●] Importancia
 
-    .row.mb-4.justify-content-center.align-items-center(data-aos="fade-right")
+    .row.mb-4.justify-content-center.h-100(data-aos="fade-right")
       .col-sm-6.col-lg.mb-4.mb-lg-0
         .tarjeta--boton.color-secundario.p-4
           .row.justify-content-center.mb-3
@@ -114,13 +114,13 @@
         ul.lista-ul--color
           li 
             i.fas.fa-user-cog
-            | #[b Agilidad:] facilita la rápida adaptación a las nuevas tendencias y necesidades del mercado.
+            p.mb-0 #[b Agilidad:] facilita la rápida adaptación a las nuevas tendencias y necesidades del mercado.
           li 
             i.fas.fa-user-cog
-            | #[b Competitividad:] permite a las empresas mantener una ventaja competitiva al estar siempre alineadas con lo que los consumidores desean.
+            p.mb-0 #[b Competitividad:] permite a las empresas mantener una ventaja competitiva al estar siempre alineadas con lo que los consumidores desean.
           li 
             i.fas.fa-user-cog
-            | #[b Satisfacción del cliente:] mejora la satisfacción del cliente al ofrecer productos y servicios que se ajustan a sus expectativas y necesidades actuales.
+            p.mb-0 #[b Satisfacción del cliente:] mejora la satisfacción del cliente al ofrecer productos y servicios que se ajustan a sus expectativas y necesidades actuales.
         .cajon.color-primario.p-4
           p.mb-0 #[b Ejemplo:] una empresa de alimentos que observe una creciente demanda de productos veganos puede ampliar su portafolio para incluir opciones veganas, atrayendo a un nuevo segmento de consumidores y aumentando su participación en el mercado.
 
@@ -136,7 +136,7 @@
         div
           b.text-1.py-1(data-aos="zoom-in-down") #[span ●] Importancia
 
-    .row.align-items-center.justify-content-center.mb-4
+    .row.h-100.justify-content-center.mb-4
       .col-md-6.col-lg.mb-3.mb-lg-0(data-aos="fade-down")
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema5/ico-2A.svg' alt='AvatarTop')
@@ -436,13 +436,13 @@
         ul.lista-ul--color
           li.mb-0 
             i.fas.fas.fa-user-cog
-            | Empresas de moda y belleza.
+            p.mb-0 Empresas de moda y belleza.
           li.mb-0 
             i.fas.fas.fa-user-cog
-            | Empresas de alimentos y bebidas.
+            p.mb-0 Empresas de alimentos y bebidas.
           li.mb-0 
             i.fas.fas.fa-user-cog
-            | #[em Startups].
+            p.mb-0 #[em Startups].
         div.mb-2
           b.text-1(data-aos="zoom-in-down") #[span ●] Ventajas
         ul.lista-ul--color
