@@ -22,7 +22,7 @@
       .col-12(data-aos="fade-right")
         p La protección de datos personales se refiere a las medidas legales y técnicas que garantizan la privacidad y seguridad de la información personal recopilada por las empresas. Estas medidas están diseñadas para evitar el uso indebido, la divulgación no autorizada y el acceso no permitido a los datos personales. En Colombia, la protección de datos personales está regulada por la Ley 1581 de 2012, también conocida como la Ley de Protección de Datos Personales. Esta normativa establece un marco legal para la recolección, almacenamiento, uso, circulación y eliminación de datos personales, garantizando los derechos de privacidad y control de los ciudadanos sobre su información personal. La ley define principios fundamentales como la legalidad, finalidad, libertad, veracidad, transparencia, acceso y circulación restringida, seguridad y confidencialidad, que deben ser respetados por todas las entidades que manejen datos personales. La Superintendencia de Industria y Comercio (SIC) es la autoridad encargada de velar por el cumplimiento de esta ley y de imponer sanciones en caso de infracciones. La ley también otorga a los individuos derechos específicos, como el acceso, actualización, rectificación y eliminación de sus datos personales, asegurando así una protección integral y efectiva de la información personal en el país. 
 
-    .tarjeta.color-acento-contenido.p-3.mb-5
+    .tarjeta.color-acento-contenido-2.p-3.mb-5
       .row.justify-content-around.align-items-center
         .col-3.col-sm-2.col-lg-1
           img(src="@/assets/curso/temas/tema4/compliant.svg")
@@ -61,13 +61,13 @@
         ul.lista-ul--color
           li 
             i.fas.fa-user-cog
-            | #[b Cumplimiento legal:] evitar sanciones y multas significativas impuestas por el incumplimiento de las regulaciones de protección de datos.
+            p.mb-0 #[b Cumplimiento legal:] evitar sanciones y multas significativas impuestas por el incumplimiento de las regulaciones de protección de datos.
           li 
             i.fas.fa-user-cog
-            | #[b Confianza del cliente:] aumentar la confianza del cliente al demostrar un compromiso con la privacidad y seguridad de sus datos.
+            p.mb-0 #[b Confianza del cliente:] aumentar la confianza del cliente al demostrar un compromiso con la privacidad y seguridad de sus datos.
           li 
             i.fas.fa-user-cog
-            | #[b Reputación de la empresa:] mantener una buena reputación y evitar daños a la imagen de la empresa asociados con violaciones de datos y uso indebido de información personal.
+            p.mb-0 #[b Reputación de la empresa:] mantener una buena reputación y evitar daños a la imagen de la empresa asociados con violaciones de datos y uso indebido de información personal.
 
     Separador
     #t_4_2.titulo-segundo.color-primario(data-aos="fade-right")
@@ -118,13 +118,13 @@
         ul.lista-ul--color
           li 
             i.fas.fa-user-cog
-            | #[b Medidas de seguridad:] implementar controles de seguridad técnicos y organizativos para proteger los datos contra acceso no autorizado, pérdida o daño.
+            p.mb-0 #[b Medidas de seguridad:] implementar controles de seguridad técnicos y organizativos para proteger los datos contra acceso no autorizado, pérdida o daño.
           li 
             i.fas.fa-user-cog
-            | #[b Evaluaciones de impacto:] realizar evaluaciones de impacto sobre la privacidad (PIA) para identificar y mitigar riesgos asociados con el procesamiento de datos personales.
+            p.mb-0 #[b Evaluaciones de impacto:] realizar evaluaciones de impacto sobre la privacidad (PIA) para identificar y mitigar riesgos asociados con el procesamiento de datos personales.
           li 
             i.fas.fa-user-cog
-            | #[b Derechos de los individuos:] responder de manera oportuna y adecuada a las solicitudes de los individuos para acceder, rectificar o eliminar sus datos personales.
+            p.mb-0 #[b Derechos de los individuos:] responder de manera oportuna y adecuada a las solicitudes de los individuos para acceder, rectificar o eliminar sus datos personales.
     
     p.mb-4(data-aos="fade-left") El incumplimiento de estos parámetros trae consigo los siguientes riesgos:
 
@@ -135,13 +135,13 @@
             figure
               img(src='@/assets/curso/temas/tema4/info-4A.svg', alt='')
           .tarjeta.color-acento-contenido.p-3(x="22%" y="54%" numero="+")
-            .h5.mb-2 Sanciones legales
+            //- .h5.mb-2 Sanciones legales
             p Multas y sanciones significativas (millonarias) por parte de las autoridades de protección de datos.
           .tarjeta.color-acento-contenido.p-3(x="62%" y="16%" numero="+")
-            .h5.mb-2 Daños a la reputación
+            //- .h5.mb-2 Daños a la reputación
             p Pérdida de confianza y daño a la reputación de la empresa debido a la percepción pública negativa.
           .tarjeta.color-acento-contenido.p-3(x="78%" y="69%" numero="+")
-            .h5.mb-2 Acciones legales
+            //- .h5.mb-2 Acciones legales
             p Posibles demandas y acciones legales por parte de los individuos afectados.
       .col-12.d-block.d-md-none
         .row 

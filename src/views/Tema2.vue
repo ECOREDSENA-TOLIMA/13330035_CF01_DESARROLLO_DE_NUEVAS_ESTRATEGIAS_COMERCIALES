@@ -11,7 +11,7 @@
     p.mb-4(data-aos="fade-left") Los tipos de información relevante que se recomienda tener en cuenta y a su vez son recolectados de la investigación de mercados son:
 
     .row.mb-4.justify-content-center.align-items-center(data-aos="fade-right")
-      .col-md-8.col-12
+      .col-lg-8.col-12
         AcordionA(tipo="b" clase-tarjeta="tarjeta tarjeta--gris")
           .row(titulo="Información demográfica")
             .col-12.mb-4.mb-md-0
@@ -28,7 +28,7 @@
               p Incluye datos sobre los hábitos de compra, frecuencia de uso de productos o servicios, lealtad a la marca y respuesta a las campañas de #[em marketing].
               p #[b ●	Importancia:] facilita la identificación de patrones de comportamiento y la personalización de ofertas.
               p #[b ●	Ejemplo:] una tienda en línea puede analizar el historial de compras de sus clientes para ofrecer recomendaciones personalizadas y promociones especiales. 
-      .col-md-4.col-12
+      .col-lg-4.col-8.mb-lg-0.mb-4
         figure
           img(src='@/assets/curso/temas/tema2/img_1.png', alt='')
 
@@ -36,33 +36,33 @@
 
     TabsB.color-acento-botones.mb-5(data-aos="fade-left")
       .py-4.py-md-5(titulo="Encuestas y entrevistas" :icono="require('@/assets/curso/temas/tema2/ico_1A.svg')")
-        .row
-          .col-md-5.mb-4.mb-md-0
+        .row.px-2
+          .col-lg-5.mb-4.mb-lg-0
             figure
               img(src='@/assets/curso/temas/tema2/img_2.png', alt='')
-          .col-md-7
+          .col-lg-7
             h4 Encuestas y entrevistas
             p Las encuestas y entrevistas son herramientas directas para obtener información de los clientes sobre sus preferencias, necesidades y experiencias.
             p #[b ●	Ejemplo:] una empresa de servicios financieros puede utilizar Google Forms para crear una encuesta que pregunte a los clientes sobre su satisfacción con los productos actuales y sus necesidades financieras futuras.
             p #[b ●	Ventajas:] permiten recopilar datos cualitativos y cuantitativos detallados directamente de los clientes.
             p #[b ●	Desventajas:] pueden tener tasas de respuesta bajas si no se diseñan y distribuyen correctamente.
       .py-4.py-md-5(titulo="Análisis de comportamiento en línea" :icono="require('@/assets/curso/temas/tema2/ico_1B.svg')")
-        .row
-          .col-md-5.mb-4.mb-md-0
+        .row.px-2
+          .col-lg-5.mb-4.mb-lg-0
             figure
               img(src='@/assets/curso/temas/tema2/img_3.png', alt='')
-          .col-md-7
+          .col-lg-7
             h4 Análisis de comportamiento en línea
             p Involucra el seguimiento y análisis del comportamiento de los clientes en plataformas digitales, como sitios web, aplicaciones móviles y redes sociales.
             p #[b ●	Ejemplo:] utilizar herramientas como Google Analytics para monitorizar el tráfico web, identificar las páginas más visitadas y analizar el tiempo de permanencia en cada sección.
             p #[b ●	Ventajas:] proporciona datos en tiempo real y permite identificar patrones de comportamiento y tendencias.
             p #[b ●	Desventajas:] requiere herramientas y conocimientos técnicos para analizar y interpretar los datos de manera efectiva.
       .py-4.py-md-5(titulo="Uso de CRM" :icono="require('@/assets/curso/temas/tema2/ico_1C.svg')")
-        .row
-          .col-md-5.mb-md-0
+        .row.px-2
+          .col-lg-5.mb-4.mb-lg-0
             figure
               img(src='@/assets/curso/temas/tema2/img_4.png', alt='')
-          .col-md-7.mb-4
+          .col-lg-7.mb-4
             h4 Uso de CRM (#[em Customer Relationship Management])
             p los sistemas CRM ayudan a gestionar las interacciones con los clientes, almacenar información detallada y analizar datos para mejorar las relaciones comerciales.
             p #[b ●	Ejemplo:] una empresa de telecomunicaciones puede utilizar un CRM para registrar todas las interacciones con los clientes, desde llamadas de servicio hasta ventas, y utilizar esta información para mejorar su atención al cliente y ofrecer productos personalizados.

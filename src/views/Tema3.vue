@@ -21,22 +21,22 @@
     p.mb-4(data-aos="fade-left") El análisis de datos implica procesar y examinar grandes volúmenes de información para identificar patrones, tendencias y relaciones que pueden guiar la toma de decisiones empresariales. Este proceso permite convertir datos brutos en #[em insights] valiosos y accionables.
 
     .row.mb-4.p-4.justify-content-center.align-items-center
-      .col-lg-7.col-md-8.col-12(data-aos="fade-right")
+      .col-lg-7.col-12.order-lg-1.order-2(data-aos="fade-right")
         div.mb-4
           b.fondo-2.px-3.py-1(data-aos="zoom-in-down") #[span ●] Importancia
         ul.lista-ul--color
           li 
             i.fas.fa-user-cog
-            | #[b Identificación de oportunidades:] permite descubrir nuevas oportunidades de mercado, como segmentos de clientes desatendidos o tendencias emergentes.
+            p.mb-0 #[b Identificación de oportunidades:] permite descubrir nuevas oportunidades de mercado, como segmentos de clientes desatendidos o tendencias emergentes.
           li 
             i.fas.fa-user-cog
-            | #[b Optimización de recursos:] ayuda a asignar los recursos de manera más eficiente, dirigiéndolos hacia áreas con mayor potencial de retorno.
+            p.mb-0 #[b Optimización de recursos:] ayuda a asignar los recursos de manera más eficiente, dirigiéndolos hacia áreas con mayor potencial de retorno.
           li 
             i.fas.fa-user-cog
-            | #[b Mejora de la competitividad:] proporciona una ventaja competitiva al permitir decisiones informadas y basadas en datos, en lugar de suposiciones o intuiciones.
+            p.mb-0 #[b Mejora de la competitividad:] proporciona una ventaja competitiva al permitir decisiones informadas y basadas en datos, en lugar de suposiciones o intuiciones.
         .cajon.color-primario.p-4
           p.mb-0 #[b Ejemplo práctico:] una empresa minorista puede analizar los datos de ventas para identificar productos de alta demanda en diferentes épocas del año. Utilizando estos #[em insights], la empresa puede ajustar sus inventarios y campañas de #[em marketing] estacional para maximizar las ventas durante los períodos pico.
-      .col-lg-5.col-md-4.col-12(data-aos="fade-right")
+      .col-lg-5.col-10.mb-lg-0.mb-4.order-lg-2.order-1(data-aos="fade-right")
         figure
           img(src='@/assets/curso/temas/tema3/img_2.png', alt='')
 
@@ -54,13 +54,13 @@
         ul.lista-ul--color
           li 
             i.fas.fa-user-cog
-            | #[b Mejora de la experiencia del cliente:] los clientes valoran las experiencias personalizadas que responden a sus necesidades específicas, lo que puede aumentar la satisfacción y lealtad.
+            p.mb-0 #[b Mejora de la experiencia del cliente:] los clientes valoran las experiencias personalizadas que responden a sus necesidades específicas, lo que puede aumentar la satisfacción y lealtad.
           li 
             i.fas.fa-user-cog
-            | #[b Aumento de la eficacia del #[em marketing]:] las campañas de #[em marketing] dirigidas y personalizadas suelen tener tasas de conversión más altas que las campañas generales.
+            p.mb-0 #[b Aumento de la eficacia del #[em marketing]:] las campañas de #[em marketing] dirigidas y personalizadas suelen tener tasas de conversión más altas que las campañas generales.
           li 
             i.fas.fa-user-cog
-            | #[b Incremento de las ventas:] la personalización puede conducir a un aumento en las ventas al ofrecer a los clientes productos y servicios que realmente desean y necesitan.
+            p.mb-0 #[b Incremento de las ventas:] la personalización puede conducir a un aumento en las ventas al ofrecer a los clientes productos y servicios que realmente desean y necesitan.
         p.cajon.color-secundario.p-4 #[b Ejemplo práctico:] una tienda en línea de moda puede utilizar la información del historial de compras y navegación de sus clientes para recomendar productos específicos que coincidan con sus preferencias de estilo. Esta personalización puede aumentar la probabilidad de compra y fomentar la lealtad del cliente.
 
     Separador
@@ -69,7 +69,7 @@
 
     p.mb-4(data-aos="fade-left") Las estrategias de fidelización se centran en mantener a los clientes actuales comprometidos y satisfechos, incentivando su lealtad a largo plazo. Estas estrategias se basan en un profundo conocimiento del cliente obtenido a través de la recopilación y análisis de datos. A continuación, se dan datos que representan la importancia del concepto:
     
-    .row.align-items-center.justify-content-center.mb-4
+    .row.h-100.justify-content-center.mb-4
       .col-md-6.col-lg.mb-3.mb-lg-0(data-aos="fade-down")
         .tarjeta-avatar
           img(src='@/assets/curso/temas/tema3/ico-1A.svg' alt='AvatarTop')

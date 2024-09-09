@@ -8,10 +8,10 @@
       h1 Portafolio de productos y servicios
 
     .row.mb-4.justify-content-center.align-items-center
-      .col-lg-5.col-md-4.col-12(data-aos="fade-right")
+      .col-lg-5.col-10.mb-lg-0.mb-4(data-aos="fade-right")
         figure
           img(src='@/assets/curso/temas/tema5/img_1.png', alt='')
-      .col-lg-7.col-md-8.col-12(data-aos="fade-right")
+      .col-lg-7.col-12(data-aos="fade-right")
         p El portafolio de productos y servicios es una colección organizada de todos los productos y servicios que una empresa ofrece al mercado. Este portafolio incluye tanto los productos actuales como los nuevos desarrollos, y abarca todas las categorías y líneas de productos. Un portafolio bien gestionado permite a las empresas equilibrar su oferta, optimizar recursos y maximizar las oportunidades de crecimiento y rentabilidad.
         p La importancia de este portafolio radica en 3 pilares:
         ul.lista-ul--color
@@ -38,7 +38,7 @@
     p.mb-4(data-aos="fade-right") Tener un portafolio diversificado permite a las empresas reducir el riesgo asociado con la dependencia de un solo producto o línea de productos. Al ofrecer una variedad de productos y servicios, las empresas pueden mitigar el impacto de las fluctuaciones del mercado y las preferencias de los consumidores.
 
     .row.mb-4.p-4.justify-content-center.align-items-center
-      .col-lg-6.col-md-8.col-12(data-aos="fade-right")
+      .col-lg-6.col-12.order-lg-1.order-2(data-aos="fade-right")
         div.mb-4
           b.text-1.py-1(data-aos="zoom-in-down") #[span ●] Importancia
         ul.lista-ul--color
@@ -53,7 +53,7 @@
             .mb-0 #[b Innovación:] fomenta la innovación y el desarrollo de nuevos productos, permitiendo a las empresas mantenerse relevantes y competitivas.
         .cajon.color-secundario.p-4
           p.mb-0 #[b Ejemplo:] una empresa tecnológica que ofrece tanto #[em hardware] (computadoras, tabletas) como #[em software] (aplicaciones, servicios en la nube) puede equilibrar sus ingresos y continuar creciendo incluso si uno de los segmentos enfrenta dificultades.
-      .col-lg-4.col-md-4.col-12(data-aos="fade-right")
+      .col-lg-4.col-10.mb-lg-0.mb-4.order-lg-2.order-1(data-aos="fade-right")
         figure
           img(src='@/assets/curso/temas/tema5/img_2.png', alt='')
 
@@ -69,7 +69,7 @@
         div
           b.text-1.py-1(data-aos="zoom-in-down") #[span ●] Importancia
 
-    .row.mb-4.justify-content-center.h-100(data-aos="fade-right")
+    .row.h-100.justify-content-center.mb-4(data-aos="fade-right")
       .col-sm-6.col-lg.mb-4.mb-lg-0
         .tarjeta--boton.color-secundario.p-4
           .row.justify-content-center.mb-3
@@ -105,10 +105,10 @@
     p.mb-4(data-aos="fade-right") Un portafolio bien gestionado permite a las empresas responder rápidamente a las demandas del mercado y a las tendencias emergentes. Esto incluye ajustar la oferta de productos y servicios según las preferencias cambiantes de los consumidores y las condiciones del mercado.
 
     .row.mb-4.p-4.justify-content-center.align-items-center
-      .col-lg-4.col-md-4.col-12(data-aos="fade-right")
+      .col-lg-4.col-10.mb-lg-0.mb-4(data-aos="fade-right")
         figure
           img(src='@/assets/curso/temas/tema5/img_3.png', alt='')
-      .col-lg-6.col-md-8.col-12(data-aos="fade-right")
+      .col-lg-6.col-12(data-aos="fade-right")
         div.mb-4
           b.text-1.py-1(data-aos="zoom-in-down") #[span ●] Importancia
         ul.lista-ul--color
@@ -261,7 +261,7 @@
           b.fondo-2.px-3.py-1(data-aos="zoom-in-down") #[span ●] Estrategias para cada fase
 
     .row.justify-content-center.mb-5
-      .col-xl-3.col-lg-3.col-md-6.col-12.mb-4.mb-xl-0
+      .col-xl-3.col-md-6.col-12.mb-4.mb-xl-0
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
             figure
@@ -270,7 +270,7 @@
             h4.mb-3 Introducción
             p.mb-0 #[b Enfoque en la promoción:] desarrollar campañas de #[em marketing] intensivas para crear conciencia y estimular la demanda inicial.
             p.mb-0 #[b Educación del mercado:] esforzarse en educar a los consumidores sobre los beneficios y características del nuevo producto.
-      .col-xl-3.col-lg-3.col-md-6.col-12.mb-4.mb-xl-0
+      .col-xl-3.col-md-6.col-12.mb-4.mb-xl-0
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
             figure
@@ -279,7 +279,7 @@
             h4.mb-3 Crecimiento
             p.mb-0 #[b Diferenciación del producto:] resaltar las características únicas del producto y diferenciarlo de los competidores.
             p.mb-0 #[b Expansión del mercado:] buscar nuevos segmentos de mercado y expandir la distribución geográfica.
-      .col-xl-3.col-lg-3.col-md-6.col-12.mb-4.mb-xl-0
+      .col-xl-3.col-md-6.col-12.mb-4.mb-xl-0
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
             figure
@@ -288,7 +288,7 @@
             h4.mb-3 Madurez
             p.mb-0 #[b Mejora del producto:] introducir mejoras y variantes del producto para mantener el interés del consumidor.
             p.mb-0 #[b Programas de fidelización:] implementar programas para retener a los clientes actuales y fomentar la lealtad.
-      .col-xl-3.col-lg-3.col-md-6.col-12.mb-4.mb-xl-0
+      .col-xl-3.col-md-6.col-12.mb-4.mb-xl-0
         .crd_hover_txt(data-aos="flip-left")
           .crd_hover_txt--img
             figure
@@ -301,7 +301,7 @@
     p.mb-4(data-aos="fade-right") Para gestionar eficazmente el ciclo de vida de un producto, es fundamental utilizar herramientas de análisis que proporcionen #[em insights] valiosos sobre su rendimiento en el mercado, la competencia, y las tendencias del entorno empresarial. Estas herramientas permiten a las empresas tomar decisiones informadas, identificar oportunidades de crecimiento y mitigar riesgos a lo largo de las distintas fases del ciclo de vida del producto. Desde matrices estratégicas hasta análisis detallados del entorno, estas herramientas ofrecen un marco estructurado para evaluar y ajustar las estrategias de producto en función de datos y evidencias concretas. A continuación, se explorarán algunas de las herramientas de análisis más utilizadas y cómo pueden aplicarse para mejorar la gestión del ciclo de vida del producto y asegurar su éxito sostenido en el mercado.
 
     .tarjeta--container.row.mb-5(data-aos="fade-down")
-      .col-md.tarjeta.color-primario.p-5
+      .col-lg.tarjeta.color-primario.p-5
         .row.justify-content-center.mb-4
           .col-6
             figure
@@ -309,7 +309,7 @@
         h4.text-center Matriz BCG (#[em Boston Consulting Group])
         p Clasifica los productos en cuatro categorías (estrellas, vacas lecheras, interrogantes y perros) según su participación en el mercado y la tasa de crecimiento.
         p #[b Aplicación:] ayuda a las empresas a decidir dónde invertir, desarrollar o desinvertir.
-      .col-md.tarjeta.color-secundario.p-5
+      .col-lg.tarjeta.color-secundario.p-5
         .row.justify-content-center.mb-4
           .col-6 
             figure
@@ -317,7 +317,7 @@
         h4.text-center Análisis PESTEL
         p Examina los factores políticos, económicos, sociales, tecnológicos, ecológicos y legales que pueden afectar el ciclo de vida del producto.
         p #[b Aplicación:] permite a las empresas anticipar cambios en el entorno y ajustar sus estrategias en consecuencia.
-      .col-md.tarjeta.tarjeta--azul.p-5
+      .col-lg.tarjeta.tarjeta--azul.p-5
         .row.justify-content-center.mb-4
           .col-6
             figure
@@ -333,11 +333,11 @@
     p.mb-4(data-aos="fade-right") La gestión efectiva del portafolio de productos y servicios implica la evaluación continua y el ajuste de la oferta de la empresa para garantizar que esté alineada con las necesidades del mercado y los objetivos estratégicos de la empresa. Esto incluye la identificación de productos que deben ser eliminados, la introducción de nuevas ofertas y la optimización de la mezcla de productos para maximizar el valor para los clientes y la empresa.
 
     .row.mb-4.justify-content-center.align-items-center
-      .col-lg-7.col-md-8.col-12(data-aos="fade-right")
+      .col-lg-7.col-12.order-lg-1.order-2(data-aos="fade-right")
         .cajon.color-primario.p-4.mb-3
           p.mb-0 #[b Ejemplo de gestión del portafolio:] una empresa de alimentos puede revisar su portafolio trimestralmente para identificar productos con bajo rendimiento que pueden ser eliminados y decidir qué nuevos productos introducir basándose en las tendencias del mercado y el #[em feedback] de los clientes. Además, puede ajustar sus promociones y precios para mantener la competitividad y atraer a nuevos clientes.
         p Un portafolio de productos y servicios bien definido y gestionado es esencial para el éxito de cualquier empresa. Permite una diversificación del riesgo, una alineación estratégica con los objetivos de la empresa y una respuesta efectiva a las demandas del mercado. Comprender y gestionar los componentes clave del portafolio es fundamental para maximizar el crecimiento y la rentabilidad a largo plazo.
-      .col-lg-3.col-md-4.col-12(data-aos="fade-right")
+      .col-lg-3.col-md-8.col-10.mb-lg-0.mb-4.order-lg-2.order-1(data-aos="fade-right")
         figure
           img(src='@/assets/curso/temas/tema5/img_8.svg', alt='')
 
@@ -351,10 +351,10 @@
     p.mb-4(data-aos="fade-right") El sitio web corporativo es una plataforma fundamental para cualquier empresa. Debe incluir una sección dedicada al portafolio de productos y servicios, con información detallada y visualmente atractiva.
 
     .row.mb-4.justify-content-center.align-items-center
-      .col-lg-3.col-md-4.col-12(data-aos="fade-right")
+      .col-lg-3.col-md-8.col-10.mb-lg-0.mb-4(data-aos="fade-right")
         figure
           img(src='@/assets/curso/temas/tema5/img_9.png', alt='')
-      .col-lg-7.col-md-8.col-12(data-aos="fade-right")
+      .col-lg-7.col-12(data-aos="fade-right")
         div.mb-2
           b.text-1(data-aos="zoom-in-down") #[span ●] Tipos de empresas
         ul.lista-ul--color
@@ -389,7 +389,7 @@
     p.mb-4(data-aos="fade-right") Las plataformas de comercio electrónico permiten a las empresas vender directamente a los consumidores a través de una tienda en línea. Estas plataformas pueden ser propias o utilizar servicios de terceros como Shopify, Amazon, o eBay.
 
     .row.mb-5.fondo-1.p-3.p-md-4.justify-content-center.align-items-center
-      .col-lg-7.col-md-8.col-12(data-aos="fade-right")
+      .col-lg-7.col-12.order-lg-1.order-2(data-aos="fade-right")
         div.mb-2
           b.text-1(data-aos="zoom-in-down") #[span ●] Tipos de empresas
         ul.lista-ul--color
@@ -415,7 +415,7 @@
             i.fas.fas.fa-user-cog
             | Personalización y recomendaciones basadas en el comportamiento del usuario.
         p #[b Ejemplo:] Nike utiliza su tienda en línea para mostrar y vender su amplia gama de productos deportivos, con opciones de personalización y recomendaciones personalizadas.
-      .col-lg-3.col-md-4.col-12(data-aos="fade-right")
+      .col-lg-3.col-md-8.col-10.mb-lg-0.mb-4.order-lg-2.order-1(data-aos="fade-right")
         figure
           img(src='@/assets/curso/temas/tema5/img_10.png', alt='')
 
@@ -427,10 +427,10 @@
     p.mb-4(data-aos="fade-right") Las redes sociales son plataformas clave para la promoción y presentación del portafolio de productos y servicios. Permiten una interacción directa con los clientes y la posibilidad de compartir contenido visual atractivo.
 
     .row.mb-5.justify-content-center.align-items-center
-      .col-lg-3.col-md-4.col-12(data-aos="fade-right")
+      .col-lg-3.col-md-8.col-10.mb-lg-0.mb-4(data-aos="fade-right")
         figure
           img(src='@/assets/curso/temas/tema5/img_11.png', alt='')
-      .col-lg-7.col-md-8.col-12(data-aos="fade-right")
+      .col-lg-7.col-12(data-aos="fade-right")
         div.mb-2
           b.text-1(data-aos="zoom-in-down") #[span ●] Tipos de empresas
         ul.lista-ul--color
@@ -465,7 +465,7 @@
     p.mb-4(data-aos="fade-right") Los catálogos digitales son versiones en línea de catálogos de productos que pueden ser descargados o visualizados en dispositivos electrónicos. Pueden ser PDFs interactivos o aplicaciones dedicadas.
 
     .row.mb-5.fondo-1.p-3.p-md-4.justify-content-center.align-items-center
-      .col-lg-7.col-md-8.col-12(data-aos="fade-right")
+      .col-lg-7.col-12.order-lg-1.order-2(data-aos="fade-right")
         div.mb-2
           b.text-1(data-aos="zoom-in-down") #[span ●] Tipos de empresas
         ul.lista-ul--color
@@ -491,7 +491,7 @@
             i.fas.fas.fa-user-cog
             | Actualización constante y distribución eficiente.
         p #[b Ejemplo:] Grainger, un distribuidor industrial, ofrece un catálogo digital con información detallada sobre sus productos y opciones de compra en línea.
-      .col-lg-3.col-md-4.col-12(data-aos="fade-right")
+      .col-lg-3.col-md-8.col-10.mb-lg-0.mb-4.order-lg-2.order-1(data-aos="fade-right")
         figure
           img(src='@/assets/curso/temas/tema5/img_12.png', alt='')
 
@@ -503,10 +503,10 @@
     p.mb-4(data-aos="fade-right") Las aplicaciones móviles proporcionan una plataforma conveniente para que los clientes accedan al portafolio de productos y servicios desde sus dispositivos móviles.
 
     .row.mb-5.justify-content-center.align-items-center
-      .col-lg-3.col-md-4.col-12(data-aos="fade-right")
+      .col-lg-3.col-md-8.col-10.mb-lg-0.mb-4(data-aos="fade-right")
         figure
           img(src='@/assets/curso/temas/tema5/img_13.png', alt='')
-      .col-lg-7.col-md-8.col-12(data-aos="fade-right")
+      .col-lg-7.col-12(data-aos="fade-right")
         div.mb-2
           b.text-1(data-aos="zoom-in-down") #[span ●] Tipos de empresas
         ul.lista-ul--color
@@ -542,7 +542,7 @@
     p.mb-4(data-aos="fade-right") Las plataformas de video como YouTube permiten a las empresas crear contenido visual atractivo que muestra sus productos y servicios en acción.
 
     .row.mb-5.fondo-1.p-3.p-md-4.justify-content-center.align-items-center
-      .col-lg-7.col-md-8.col-12(data-aos="fade-right")
+      .col-lg-7.col-12.order-lg-1.order-2(data-aos="fade-right")
         div.mb-2
           b.text-1(data-aos="zoom-in-down") #[span ●] Tipos de empresas
         ul.lista-ul--color
@@ -568,7 +568,7 @@
             i.fas.fas.fa-user-cog
             | Interacción a través de comentarios y suscripciones.
         p #[b Ejemplo:] GoPro utiliza YouTube para mostrar videos de alta calidad filmados con sus cámaras, destacando las capacidades de sus productos y la creatividad de su comunidad de usuarios.
-      .col-lg-3.col-md-4.col-12(data-aos="fade-right")
+      .col-lg-3.col-md-8.col-10.mb-lg-0.mb-4.order-lg-2.order-1(data-aos="fade-right")
         figure
           img(src='@/assets/curso/temas/tema5/img_14.png', alt='')
 

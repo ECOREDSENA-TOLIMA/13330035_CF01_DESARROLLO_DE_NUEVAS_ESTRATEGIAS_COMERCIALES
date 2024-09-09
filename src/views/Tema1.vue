@@ -22,9 +22,9 @@
       h2 1.1 Definición del perfil de cliente
 
     .row.align-items-center.justify-content-center.mb-4
-      .col-md-5(data-aos="fade-left") 
+      .col-lg-5.col-10.mb-lg-0.mb-4(data-aos="fade-left") 
         img.mt-3(src='@/assets/curso/temas/tema1/img_2.png').mb-3
-      .col-md-7(data-aos="fade-right") 
+      .col-lg-7(data-aos="fade-right") 
         p El perfil de cliente ideal, también conocido como #[em buyer] persona, es una representación semi-ficticia basada en datos y características reales de los clientes más valiosos para una empresa. Este perfil ayuda a las organizaciones a entender mejor las necesidades y comportamientos de sus clientes, permitiendo diseñar estrategias de #[em marketing] y ventas más efectivas.
         p.cajon.color-secundario.p-4 Existen varios tipos de perfiles de clientes, pero los más comunes son los clientes B2B (#[em Business to Business]) y B2C (#[em Business to Consumer]). Cada tipo de cliente tiene características y necesidades específicas que deben ser comprendidas y abordadas de manera diferente.
         p Para crear un perfil de cliente efectivo, es fundamental considerar varios factores:
@@ -123,21 +123,21 @@
     p.mb-4(data-aos="fade-down") El paso a paso para usar Google Trends para análisis de mercado es el siguiente y se define a partir de un correo electrónico propio:
 
     .tarjeta--container.row.mb-5(data-aos="fade-down")
-      .col-md.tarjeta.color-primario.p-5
+      .col-lg.tarjeta.color-primario.p-5
         .row.justify-content-center.mb-4
           .col-6
             figure
               img(src='@/assets/curso/temas/tema1/ico-2A.svg', alt='')
         h4.text-center 1.	Investigación de palabras clave
         p Utiliza Google Trends para identificar las palabras clave más relevantes en tu industria. Esto ayudará a entender qué términos están buscando los clientes potenciales y cómo puedes optimizar tu contenido para atraerlos. La palabra clave es la palabra o el grupo de palabras con las que los usuarios hacen las búsquedas en línea.
-      .col-md.tarjeta.color-secundario.p-5
+      .col-lg.tarjeta.color-secundario.p-5
         .row.justify-content-center.mb-4
           .col-6
             figure
               img(src='@/assets/curso/temas/tema1/ico-2B.svg', alt='')
         h4.text-center 2.	Análisis de la competencia
         p Google Trends permite comparar un sitio web con los de los competidores. Puedes ver qué palabras clave están utilizando, cuáles son sus páginas más populares y cómo están generando tráfico.
-      .col-md.tarjeta.tarjeta--azul.p-5
+      .col-lg.tarjeta.tarjeta--azul.p-5
         .row.justify-content-center.mb-4
           .col-6
             figure
@@ -207,19 +207,22 @@
     p.mb-4(data-aos="fade-right") De los resultados, se descubre que una gran mayoría de los clientes prefieren productos con envases sostenibles y están interesados en ingredientes orgánicos. Con esta información, la empresa decide lanzar una nueva línea de productos con envases ecológicos y aumentar la transparencia sobre los ingredientes utilizados, además de ajustar las campañas de #[em marketing] para resaltar estos aspectos.
 
     .row.mb-4.p-4.justify-content-center.align-items-center
-      .col-lg-5.col-md-4.col-12(data-aos="fade-right")
+      .col-lg-5.col-12.mb-lg-0.mb-4(data-aos="fade-right")
         figure
           img(src='@/assets/curso/temas/tema1/img_11.png', alt='')
-      .col-lg-7.col-md-8.col-12(data-aos="fade-right")
+      .col-lg-7.col-12(data-aos="fade-right")
         strong.text-1.mb-3(data-aos="zoom-in-down") #[span ●] ¿Qué es un #[em insight]?
         .cajon.color-primario.p-4.mb-3.mt-3
           p.mb-0 Un #[em insight] es una comprensión profunda y reveladora sobre los comportamientos, necesidades, motivaciones o actitudes de los consumidores. Es una verdad oculta que, una vez descubierta, proporciona una nueva perspectiva y puede guiar la toma de decisiones estratégicas en #[em marketing], desarrollo de productos y otras áreas empresariales.
         p #[b Ejemplo de #[em insight]:] una empresa de alimentos puede descubrir que sus consumidores compran ciertos productos no solo por su sabor, sino porque les evocan recuerdos nostálgicos de su infancia. Este #[em insight] puede llevar a la empresa a desarrollar campañas de #[em marketing] que se centren en la nostalgia y los momentos familiares, aumentando así la conexión emocional con la marca.
 
-    .row.mb-4.fondo-1.align-items-center
+    .row.mb-4.align-items-center
       .col-lg-9.col-md-10.col-12(data-aos="fade-right")
-        div.fondo-2
-          b.px-3.py-1(data-aos="zoom-in-down") #[span ●] Para el uso en el análisis de comportamiento en redes sociales y plataformas digitales
+        div.fondo-2(data-aos="zoom-in-down")
+          ul.lista-ul--color
+            li.mb-0 
+              i.ps-3 #[span(style="color:#000000") ●]
+              b.py-1 Para el uso en el análisis de comportamiento en redes sociales y plataformas digitales
 
     p.mb-2(data-aos="fade-right") El análisis de comportamiento en redes sociales y plataformas digitales es una técnica moderna y poderosa para identificar clientes potenciales. Al estudiar las interacciones y preferencias de los usuarios en plataformas como Facebook, Instagram, LinkedIn, y otros, las empresas pueden identificar patrones de comportamiento y segmentar a los clientes de manera más precisa.
     p.mb-4(data-aos="fade-right") Para el caso puntual de las redes sociales, cada red social tiene su propia herramienta de gestión de estadísticas con las que se obtiene información de valor, adicionalmente se pueden usar algunas de las siguientes herramientas que aportan a esa caracterización:
@@ -353,7 +356,7 @@
     
     p.mb-4(data-aos="fade-right") Las técnicas de segmentación sostienen una importancia manifiesta y en su estudio se recomienda tenerlas en cuenta, algunos motivos que resaltan la importancia del uso y aplicación de esas técnicas son las siguientes:
 
-    .row.mb-5.justify-content-center(data-aos="fade-left")
+    .row.h-100.mb-5.justify-content-center(data-aos="fade-left")
       .col-sm-6.col-xl-3.mb-4.mb-xl-0
         .tarjeta.tarjeta-slide.arriba.color-secundario(@mouseover="indicadorTarjetaSlide = false")
           .indicador--hover(v-if="indicadorTarjetaSlide")
