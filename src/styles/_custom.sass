@@ -21,6 +21,12 @@
 
 // .fondo-1 
 //   background-image: url('../assets/curso/temas/fondo-1.png')
+
+.fondo-6
+  background-image: url('../assets/curso/temas/fondo-6.svg')
+  background-repeat: no-repeat
+  background-size: 100%
+
 .fondo-1
   background: linear-gradient(to bottom, #FFF, #E0FDFB, #FFF)
   margin-inline: -3rem !important
@@ -52,10 +58,13 @@ ul.lista-ul--color li
 
 .lista-ul--color li
   i:first-of-type
-    color: $color-primario 
+    color: #7BE2D8 
 
 .cajon.color-primario
   background-color: #C3FDF7
+
+.tarjeta.tarjeta--azul-2
+  background-color: #F3FFEE
 
 .tarjetas.color-secundario
   background-color: $color-secundario
@@ -85,7 +94,8 @@ ul.lista-ul--color li
   .tarjeta-slide__contenido.p-xl-5
     padding: 1rem !important
     
-
+.tarjeta--gris
+  background-color: #F2F0EC !important
 
 ///////// Card hover --------------------------------------
 .crd_hover_txt
@@ -96,7 +106,7 @@ ul.lista-ul--color li
     .crd_hover_txt--body   
       transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1) 
       transform: translateY(0)
-      h4
+      h4,h5
         background-image: url('../assets/curso/temas/ico-down.svg')
 
   .crd_hover_txt--body
@@ -105,8 +115,8 @@ ul.lista-ul--color li
     bottom: 0    
     transition: all 0.5s cubic-bezier(0.42, 0, 0.58, 1)
     transform: translateY(calc( 100% - 3.85rem ))
-    background-color: #FDBBFF
-    h4
+    background-color: #EBD0EA
+    h4,h5
       cursor: pointer
       background-image: url('../assets/curso/temas/ico-up.svg')
       background-repeat: no-repeat

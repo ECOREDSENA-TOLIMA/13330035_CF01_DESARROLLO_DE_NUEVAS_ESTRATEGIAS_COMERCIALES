@@ -88,8 +88,8 @@
 
     p.mb-4(data-aos="fade-down") Recolectar información de cada persona se vuelve un trabajo de gran esfuerzo sobre todo en la concepción, mantenimiento y análisis de los datos, es por eso que se recomienda usar herramientas para la identificación de los clientes potenciales y ganar terreno en el mercado de manera rápida y efectiva. Algunas de las herramientas más utilizadas para este tipo de trabajo son las siguientes: 
 
-    div.mb-4
-      b.fondo-2.px-3.py-1(data-aos="zoom-in-down") #[span ●] Para el análisis de mercado
+    h3.mb-4
+      span.fondo-2.px-3.py-1(data-aos="zoom-in-down") #[span ●] Para el análisis de mercado
 
     p.mb-4(data-aos="zoom-in-down") El análisis de mercado es una herramienta fundamental para identificar clientes potenciales. Este análisis incluye la evaluación de la competencia, la identificación de oportunidades de mercado y la comprensión de las tendencias del sector. Algunas de las herramientas que se pueden usar en este apartado son:
 
@@ -146,12 +146,12 @@
         p La herramienta proporciona informes sobre tendencias de búsqueda y comportamiento del usuario, lo que te permite anticipar cambios en el mercado y ajustar tu estrategia en consecuencia.
 
 
-    p.mb-4(data-aos="fade-down") #[b Ejemplo práctico:] suponga que una empresa vende #[em software] de gestión de proyectos. Se usa Google Trends para investigar las palabras clave "#[em software] de gestión de proyectos", "herramientas de colaboración en equipo" y "#[em software] de productividad". Con la búsqueda se descubre que los competidores principales están generando mucho tráfico a través de blogs educativos y comparaciones de productos. En ese momento se toma la decisión de crear contenido similar y optimizarlo para las palabras clave identificadas, además de lanzar una campaña de consecución de prospectos dirigida a las mismas.
+    p.mb-4(data-aos="fade-down") #[b Ejemplo práctico:] suponga que una empresa vende #[em software] de gestión de proyectos. Se usa Google Trends para investigar las palabras clave "#[em software] de gestión de proyectos", "herramientas de colaboración en equipo" y "#[em software] de productividad". Con la búsqueda se descubre que los competidores principales están generando mucho tráfico a través de #[em blogs] educativos y comparaciones de productos. En ese momento se toma la decisión de crear contenido similar y optimizarlo para las palabras clave identificadas, además de lanzar una campaña de consecución de prospectos dirigida a las mismas.
 
     .row.mb-4.p-4.justify-content-center.align-items-center
       .col-lg-10.col-12
-        div.mb-4
-          b.fondo-2.px-3.py-1(data-aos="zoom-in-down") #[span ●] Para el uso en la generación y gestión de encuestas y entrevistas
+        h3.mb-4
+          span.fondo-2.px-3.py-1(data-aos="zoom-in-down") #[span ●] Para el uso en la generación y gestión de encuestas y entrevistas
       .col-lg-6.col-12.order-lg-1.order-2(data-aos="fade-right")
         p.mb-2 Las encuestas y entrevistas son métodos efectivos para recopilar información directa de los clientes. Estas herramientas permiten obtener #[em insights] detallados sobre las preferencias, necesidades y problemas de los clientes. Según Kotler y Keller (2019), las encuestas bien diseñadas pueden proporcionar datos valiosos que son difíciles de obtener por otros medios. Las siguientes son algunas herramientas de referencia con las que se pueden hacer estos ejercicios: 
         ul.lista-ul--color
@@ -217,12 +217,15 @@
         p #[b Ejemplo de #[em insight]:] una empresa de alimentos puede descubrir que sus consumidores compran ciertos productos no solo por su sabor, sino porque les evocan recuerdos nostálgicos de su infancia. Este #[em insight] puede llevar a la empresa a desarrollar campañas de #[em marketing] que se centren en la nostalgia y los momentos familiares, aumentando así la conexión emocional con la marca.
 
     .row.mb-4.align-items-center
-      .col-lg-9.col-md-10.col-12(data-aos="fade-right")
-        div.fondo-2(data-aos="zoom-in-down")
-          ul.lista-ul--color
-            li.mb-0 
-              i.ps-3 #[span(style="color:#000000") ●]
-              b.py-1 Para el uso en el análisis de comportamiento en redes sociales y plataformas digitales
+      .col-12(data-aos="fade-right")
+        h3(data-aos="zoom-in-down")
+          span.fondo-2.px-3.py-1 #[span ●] Para el uso en el análisis de comportamiento en redes sociales y plataformas digitales
+
+        //- div.fondo-2(data-aos="zoom-in-down")
+        //-   ul.lista-ul--color
+        //-     li.mb-0 
+        //-       i.ps-3 #[span(style="color:#000000") ●]
+        //-       b.py-1 Para el uso en el análisis de comportamiento en redes sociales y plataformas digitales
 
     p.mb-2(data-aos="fade-right") El análisis de comportamiento en redes sociales y plataformas digitales es una técnica moderna y poderosa para identificar clientes potenciales. Al estudiar las interacciones y preferencias de los usuarios en plataformas como Facebook, Instagram, LinkedIn, y otros, las empresas pueden identificar patrones de comportamiento y segmentar a los clientes de manera más precisa.
     p.mb-4(data-aos="fade-right") Para el caso puntual de las redes sociales, cada red social tiene su propia herramienta de gestión de estadísticas con las que se obtiene información de valor, adicionalmente se pueden usar algunas de las siguientes herramientas que aportan a esa caracterización:
@@ -306,7 +309,7 @@
         .row.justify-content-center.mb-3
           .col-4
             img(src='@/assets/curso/temas/tema1/ico-4B.svg' alt='AvatarTop')
-        h5.text-center Personalización del #[m marketing]
+        h5.text-center Personalización del #[em marketing]
         p.text-center Facilita la creación de estrategias de #[em marketing] personalizadas que resuenan mejor con las necesidades y deseos específicos de cada segmento.
       .col-md-6.col-lg.tarjeta--tabla.tarjetas.color-primario.p-4
         .row.justify-content-center.mb-3
@@ -323,8 +326,8 @@
 
     .row.mb-4.fondo-1.align-items-center
       .col-lg-4.col-md-8.col-12(data-aos="fade-right")
-        div.fondo-2
-          b.px-3.py-1(data-aos="zoom-in-down") #[span ●] Técnicas de segmentación
+        h3
+          span.fondo-2.px-3.py-1(data-aos="zoom-in-down") #[span ●] Técnicas de segmentación
 
     p.mb-4(data-aos="fade-right") La segmentación de mercados es una estrategia fundamental que permite a las empresas dividir su mercado total en segmentos más pequeños y homogéneos para diseñar y aplicar estrategias de #[em marketing] más efectivas. Existen diversas técnicas de segmentación que las empresas pueden utilizar para identificar y clasificar a sus clientes en grupos específicos. A continuación, se presentan las técnicas más comunes y efectivas para la segmentación de mercados.
     
@@ -390,7 +393,7 @@
               p Permite una asignación más eficiente de los recursos de #[em marketing] y ventas, enfocándose en los segmentos más rentables y con mayor potencial de crecimiento.
             .tarjeta-slide__img(:style="{'background-image': `url(${require('@/assets/curso/temas/tema1/ico-5D.png')})`}")
 
-    p.mb-5(data-aos="fade-right") La segmentación de mercados es una técnica poderosa que permite a las empresas conocer mejor a sus clientes y adaptar sus estrategias de marketing y ventas para satisfacer de manera más efectiva las necesidades específicas de cada segmento. Al utilizar diversas técnicas de segmentación, las empresas pueden identificar oportunidades de mercado, mejorar la satisfacción del cliente y optimizar sus recursos para maximizar sus beneficios.
+    p.mb-5(data-aos="fade-right") La segmentación de mercados es una técnica poderosa que permite a las empresas conocer mejor a sus clientes y adaptar sus estrategias de #[em marketing] y ventas para satisfacer de manera más efectiva las necesidades específicas de cada segmento. Al utilizar diversas técnicas de segmentación, las empresas pueden identificar oportunidades de mercado, mejorar la satisfacción del cliente y optimizar sus recursos para maximizar sus beneficios.
 
 
 </template>

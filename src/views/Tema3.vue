@@ -22,8 +22,8 @@
 
     .row.mb-4.p-4.justify-content-center.align-items-center
       .col-lg-7.col-12.order-lg-1.order-2(data-aos="fade-right")
-        div.mb-4
-          b.fondo-2.px-3.py-1(data-aos="zoom-in-down") #[span ●] Importancia
+        h3.mb-4
+          span.fondo-2.px-3.py-1(data-aos="zoom-in-down") #[span ●] Importancia
         ul.lista-ul--color
           li 
             i.fas.fa-user-cog
@@ -48,8 +48,8 @@
 
     .row.mb-4.fondo-1.p-4.justify-content-center.align-items-center
       .col-lg-10.col-12(data-aos="fade-right")
-        div.mb-4
-          b.fondo-2.px-3.py-1(data-aos="zoom-in-down") #[span ●] Importancia
+        h3.mb-4
+          span.fondo-2.px-3.py-1(data-aos="zoom-in-down") #[span ●] Importancia
       .col-lg-10.col-12(data-aos="fade-right")
         ul.lista-ul--color
           li 

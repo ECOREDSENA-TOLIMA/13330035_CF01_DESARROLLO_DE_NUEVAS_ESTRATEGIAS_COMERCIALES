@@ -17,8 +17,8 @@
 
     .row.mb-5.justify-content-center.align-items-center
       .col-12(data-aos="fade-right")
-        div
-          b.fondo-2.px-4.py-1(data-aos="zoom-in-down") #[span ●] Bancos
+        h3
+          span.fondo-2.px-4.py-1(data-aos="zoom-in-down") #[span ●] Bancos
 
     p.mb-4(data-aos="fade-left") Los bancos son las entidades financieras más conocidas y ofrecen una amplia gama de servicios financieros. Se clasifican en:
     
@@ -27,15 +27,15 @@
         .tarjeta-avatar-b.mb-5
           .tarjeta-avatar-b__img
             img(src='@/assets/curso/temas/tema6/ico_1A.svg' alt='AvatarTop')
-          .tarjeta.tarjeta--azul
+          .tarjeta.tarjeta--azul-2
             .p-4
               h4 Bancos comerciales
-              p proporcionan servicios bancarios generales, incluyendo cuentas de ahorro, cuentas corrientes, préstamos, créditos hipotecarios, y tarjetas de crédito.
+              p Proporcionan servicios bancarios generales, incluyendo cuentas de ahorro, cuentas corrientes, préstamos, créditos hipotecarios, y tarjetas de crédito.
       .col-lg-6(data-aos="fade-down")
         .tarjeta-avatar-b.mb-5
           .tarjeta-avatar-b__img
             img(src='@/assets/curso/temas/tema6/ico_1B.svg' alt='AvatarTop')
-          .tarjeta.tarjeta--azul
+          .tarjeta.tarjeta--azul-2
             .p-4
               h4 Bancos hipotecarios
               p Se especializan en financiamiento para la adquisición de bienes inmuebles, ofreciendo créditos hipotecarios a largo plazo.
@@ -43,7 +43,7 @@
     p.mb-4(data-aos="fade-left") Los bancos son las entidades más populares, sin embargo en el mercado se encuentran otras varias entidades que prestan servicios financieros y se encuentran en el siguiente recurso:
 
     .row.mb-5.justify-content-center.align-items-center(data-aos="fade-down")
-      .col-12.p-5.tarjeta.color-primario
+      .col-12.p-5.tarjeta.fondo-6
         SlyderB(:datos="datosSlyder")
 
     p.mb-2(data-aos="fade-left") Las entidades financieras en Colombia están sujetas a un riguroso marco regulatorio que busca asegurar la estabilidad del sistema financiero y proteger los intereses de los consumidores. La #[b Superintendencia Financiera de Colombia] es el organismo encargado de supervisar y regular estas entidades, velando por el cumplimiento de normas en materia de solvencia, transparencia, y gestión de riesgos.
@@ -61,13 +61,13 @@ export default {
       {
         titulo: 'Corporaciones financieras',
         texto:
-          'objetivo principal es promover el desarrollo industrial y comercial, ofreciendo crédito a empresas para la expansión y modernización de sus operaciones.',
+          'Objetivo principal es promover el desarrollo industrial y comercial, ofreciendo crédito a empresas para la expansión y modernización de sus operaciones.',
         imagen: require('@/assets/curso/temas/tema6/img_2.png'),
       },
       {
         titulo: 'Compañías de financiamiento comercial',
         texto:
-          'También conocidas como entidades de leasing, estas compañías ofrecen financiamiento para la adquisición de bienes de capital mediante el arrendamiento financiero. Son una opción popular para empresas que buscan adquirir equipos o maquinaria sin comprometer su flujo de caja.',
+          'También conocidas como entidades de <em>leasing</em>, estas compañías ofrecen financiamiento para la adquisición de bienes de capital mediante el arrendamiento financiero. Son una opción popular para empresas que buscan adquirir equipos o maquinaria sin comprometer su flujo de caja.',
         imagen: require('@/assets/curso/temas/tema6/img_3.png'),
       },
       {

@@ -83,7 +83,7 @@
             figure
               img(src="@/assets/curso/temas/tema4/img_4.png", alt="alt")
           .crd_hover_txt--body
-            h4.mb-3 Políticas de privacidad claras
+            h5.mb-3 Políticas de privacidad claras
             p.mb-0 Redactar y publicar políticas de privacidad comprensibles que expliquen detalladamente las prácticas de recopilación y uso de datos.
       .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
         .crd_hover_txt(data-aos="flip-left")
@@ -91,7 +91,7 @@
             figure
               img(src="@/assets/curso/temas/tema4/img_5.png", alt="alt")
           .crd_hover_txt--body
-            h4.mb-3 Consentimiento explícito
+            h5.mb-3 Consentimiento explícito
             p.mb-0 Utilizar formularios de consentimiento claros y específicos que permitan a los individuos aceptar o rechazar la recopilación de sus datos.
       .col-xl-4.col-lg-7.col-md-9.col-11.mb-4.mb-xl-0
         .crd_hover_txt(data-aos="flip-left")
@@ -99,12 +99,12 @@
             figure
               img(src="@/assets/curso/temas/tema4/img_6.png", alt="alt")
           .crd_hover_txt--body
-            h4.mb-3 Transparencia en el uso de datos
+            h5.mb-3 Transparencia en el uso de datos
             p.mb-0 Informar a los clientes sobre cualquier cambio en las políticas de privacidad o el uso de sus datos, y proporcionar opciones para revisar y actualizar su consentimiento.
 
     .row.mb-4.p-4.justify-content-center.align-items-center
       .col-lg-10.col-12(data-aos="fade-right")
-        p.cajon.color-secundario.p-4 #[b Ejemplo práctico:] una tienda en línea puede implementar un banner de #[cookies] que informe a los visitantes sobre el uso de #[cookies] en el sitio web, proporcionando opciones para aceptar todas las #[cookies], personalizar la configuración de #[cookies] o rechazar las #[cookies] no esenciales.
+        p.cajon.color-secundario.p-4 #[b Ejemplo práctico:] una tienda en línea puede implementar un #[em banner] de #[cookies] que informe a los visitantes sobre el uso de #[cookies] en el sitio #[em web], proporcionando opciones para aceptar todas las #[em cookies], personalizar la configuración de #[cookies] o rechazar las #[cookies] no esenciales.
 
     Separador
     #t_4_3.titulo-segundo.color-primario(data-aos="fade-right")

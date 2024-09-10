@@ -32,15 +32,15 @@
 
     .row.mb-4.justify-content-center.align-items-center
       .col-12(data-aos="fade-right")
-        div
-          b.fondo-2.px-3.py-1(data-aos="zoom-in-down") #[span ●] Diversificación del riesgo
+        h3
+          span.fondo-2.px-3.py-1(data-aos="zoom-in-down") #[span ●] Diversificación del riesgo
 
     p.mb-4(data-aos="fade-right") Tener un portafolio diversificado permite a las empresas reducir el riesgo asociado con la dependencia de un solo producto o línea de productos. Al ofrecer una variedad de productos y servicios, las empresas pueden mitigar el impacto de las fluctuaciones del mercado y las preferencias de los consumidores.
 
     .row.mb-4.p-4.justify-content-center.align-items-center
       .col-lg-6.col-12.order-lg-1.order-2(data-aos="fade-right")
         div.mb-4
-          b.text-1.py-1(data-aos="zoom-in-down") #[span ●] Importancia
+          h4.text-1.py-1(data-aos="zoom-in-down") #[span ●] Importancia
         ul.lista-ul--color
           li 
             i.fas.fa-user-cog
@@ -59,15 +59,15 @@
 
     .row.mb-4.justify-content-center.align-items-center
       .col-12(data-aos="fade-right")
-        div
-          b.fondo-2.px-3.py-1(data-aos="zoom-in-down") #[span ●] Alineación estratégica
+        h3
+          span.fondo-2.px-3.py-1(data-aos="zoom-in-down") #[span ●] Alineación estratégica
 
     p.mb-4(data-aos="fade-right") La alineación estratégica implica que cada producto y servicio en el portafolio esté alineado con la misión, visión y objetivos a largo plazo de la empresa. Esto asegura que todos los esfuerzos y recursos estén dirigidos hacia metas comunes y coherentes.
 
     .row.mb-4.justify-content-center.align-items-center
       .col-12(data-aos="fade-right")
         div
-          b.text-1.py-1(data-aos="zoom-in-down") #[span ●] Importancia
+          h4.text-1.py-1(data-aos="zoom-in-down") #[span ●] Importancia
 
     .row.h-100.justify-content-center.mb-4(data-aos="fade-right")
       .col-sm-6.col-lg.mb-4.mb-lg-0
@@ -76,7 +76,7 @@
             .col-7.col-md-4
               figure
                 img(src='@/assets/curso/temas/tema5/ico-1A.svg', alt='')
-          h3.text-center Coherencia
+          h4.text-center Coherencia
           p Garantiza que todas las ofertas de la empresa sean coherentes con su posicionamiento y propuesta de valor en el mercado.
       .col-sm-6.col-lg.mb-4.mb-lg-0
         .tarjeta--boton.color-secundario.p-4
@@ -84,7 +84,7 @@
             .col-7.col-md-4
               figure
                 img(src='@/assets/curso/temas/tema5/ico-1B.svg', alt='')
-          h3.text-center Prioridad de recursos
+          h4.text-center Prioridad de recursos
           p Permite una mejor asignación de recursos hacia productos y servicios que contribuyen más significativamente a los objetivos estratégicos.
       .col-sm-6.col-lg.mb-4.mb-sm-0
         .tarjeta--boton.color-secundario.p-4
@@ -92,15 +92,15 @@
             .col-7.col-md-4
               figure
                 img(src='@/assets/curso/temas/tema5/ico-1C.svg', alt='')
-          h3.text-center Sostenibilidad
+          h4.text-center Sostenibilidad
           p Apoya el crecimiento sostenible al mantener un enfoque claro y dirigido en el desarrollo de productos y servicios.
 
     p.mb-4(data-aos="fade-right") #[b Ejemplo:] una empresa de moda sostenible puede asegurarse de que todos sus productos cumplan con altos estándares ambientales y éticos, reforzando su compromiso con la sostenibilidad y atrayendo a consumidores que comparten estos valores.
 
     .row.mb-4.justify-content-center.align-items-center
       .col-12(data-aos="fade-right")
-        div
-          b.fondo-2.px-3.py-1(data-aos="zoom-in-down") #[span ●] Respuesta al mercado
+        h3
+          span.fondo-2.px-3.py-1(data-aos="zoom-in-down") #[span ●] Respuesta al mercado
 
     p.mb-4(data-aos="fade-right") Un portafolio bien gestionado permite a las empresas responder rápidamente a las demandas del mercado y a las tendencias emergentes. Esto incluye ajustar la oferta de productos y servicios según las preferencias cambiantes de los consumidores y las condiciones del mercado.
 
@@ -110,7 +110,7 @@
           img(src='@/assets/curso/temas/tema5/img_3.png', alt='')
       .col-lg-6.col-12(data-aos="fade-right")
         div.mb-4
-          b.text-1.py-1(data-aos="zoom-in-down") #[span ●] Importancia
+          h4.text-1.py-1(data-aos="zoom-in-down") #[span ●] Importancia
         ul.lista-ul--color
           li 
             i.fas.fa-user-cog
@@ -126,15 +126,15 @@
 
     .row.mb-4.justify-content-center.align-items-center
       .col-12(data-aos="fade-right")
-        div
-          b.fondo-2.px-3.py-1(data-aos="zoom-in-down") #[span ●] Optimización de la estrategia de #[em marketing]
+        h3
+          span.fondo-2.px-3.py-1(data-aos="zoom-in-down") #[span ●] Optimización de la estrategia de #[em marketing]
 
     p.mb-4(data-aos="fade-right") Un portafolio bien gestionado facilita la creación de estrategias de #[em marketing] más efectivas y dirigidas. Al conocer las características y el rendimiento de cada producto, las empresas pueden diseñar campañas específicas que resalten los beneficios únicos de cada oferta.
 
     .row.mb-4.justify-content-center.align-items-center
       .col-12(data-aos="fade-right")
         div
-          b.text-1.py-1(data-aos="zoom-in-down") #[span ●] Importancia
+          h4.text-1.py-1(data-aos="zoom-in-down") #[span ●] Importancia
 
     .row.h-100.justify-content-center.mb-4
       .col-md-6.col-lg.mb-3.mb-lg-0(data-aos="fade-down")
@@ -202,8 +202,8 @@
 
     .row.mb-4.justify-content-center.align-items-center
       .col-12(data-aos="fade-right")
-        div
-          b.fondo-2.px-3.py-1(data-aos="zoom-in-down") #[span ●] Fases del ciclo de vida del producto
+        h3
+          span.fondo-2.px-3.py-1(data-aos="zoom-in-down") #[span ●] Fases del ciclo de vida del producto
 
     .row.mb-4.justify-content-center.align-items-center
       .col-12(data-aos="fade-right")
@@ -257,8 +257,8 @@
 
     .row.mb-4.justify-content-center.align-items-center
       .col-12(data-aos="fade-right")
-        div
-          b.fondo-2.px-3.py-1(data-aos="zoom-in-down") #[span ●] Estrategias para cada fase
+        h3
+          span.fondo-2.px-3.py-1(data-aos="zoom-in-down") #[span ●] Estrategias para cada fase
 
     .row.justify-content-center.mb-5
       .col-xl-3.col-md-6.col-12.mb-4.mb-xl-0
@@ -345,8 +345,8 @@
 
     .row.mb-4.justify-content-center.align-items-center
       .col-12(data-aos="fade-right")
-        div
-          b.fondo-2.px-3.py-1(data-aos="zoom-in-down") #[span a.] Sitio web corporativo
+        h3
+          span.fondo-2.px-3.py-1(data-aos="zoom-in-down") #[span a.] Sitio web corporativo
 
     p.mb-4(data-aos="fade-right") El sitio web corporativo es una plataforma fundamental para cualquier empresa. Debe incluir una sección dedicada al portafolio de productos y servicios, con información detallada y visualmente atractiva.
 
@@ -383,8 +383,8 @@
     
     .row.mb-4.justify-content-center.align-items-center
       .col-12(data-aos="fade-right")
-        div
-          b.fondo-2.px-3.py-1(data-aos="zoom-in-down") #[span b.] Tienda en línea (#[em E-commerce])
+        h3
+          span.fondo-2.px-3.py-1(data-aos="zoom-in-down") #[span b.] Tienda en línea (#[em E-commerce])
 
     p.mb-4(data-aos="fade-right") Las plataformas de comercio electrónico permiten a las empresas vender directamente a los consumidores a través de una tienda en línea. Estas plataformas pueden ser propias o utilizar servicios de terceros como Shopify, Amazon, o eBay.
 
@@ -421,8 +421,8 @@
 
     .row.mb-4.justify-content-center.align-items-center
       .col-12(data-aos="fade-right")
-        div
-          b.fondo-2.px-3.py-1(data-aos="zoom-in-down") #[span c.] Redes sociales
+        h3
+          span.fondo-2.px-3.py-1(data-aos="zoom-in-down") #[span c.] Redes sociales
 
     p.mb-4(data-aos="fade-right") Las redes sociales son plataformas clave para la promoción y presentación del portafolio de productos y servicios. Permiten una interacción directa con los clientes y la posibilidad de compartir contenido visual atractivo.
 
@@ -459,8 +459,8 @@
     
     .row.mb-4.justify-content-center.align-items-center
       .col-12(data-aos="fade-right")
-        div
-          b.fondo-2.px-3.py-1(data-aos="zoom-in-down") #[span d.] Catálogos digitales
+        h3
+          span.fondo-2.px-3.py-1(data-aos="zoom-in-down") #[span d.] Catálogos digitales
 
     p.mb-4(data-aos="fade-right") Los catálogos digitales son versiones en línea de catálogos de productos que pueden ser descargados o visualizados en dispositivos electrónicos. Pueden ser PDFs interactivos o aplicaciones dedicadas.
 
@@ -471,7 +471,7 @@
         ul.lista-ul--color
           li.mb-0 
             i.fas.fas.fa-user-cog
-            | Empresas de B2B (#[em Business to Business]).
+            span Empresas de B2B (#[em Business to Business]).
           li.mb-0 
             i.fas.fas.fa-user-cog
             | Empresas de distribución y logística.
@@ -497,8 +497,8 @@
 
     .row.mb-4.justify-content-center.align-items-center
       .col-12(data-aos="fade-right")
-        div
-          b.fondo-2.px-3.py-1(data-aos="zoom-in-down") #[span e.] Aplicaciones móviles
+        h3
+          span.fondo-2.px-3.py-1(data-aos="zoom-in-down") #[span e.] Aplicaciones móviles
 
     p.mb-4(data-aos="fade-right") Las aplicaciones móviles proporcionan una plataforma conveniente para que los clientes accedan al portafolio de productos y servicios desde sus dispositivos móviles.
 
@@ -512,7 +512,7 @@
         ul.lista-ul--color
           li.mb-0 
             i.fas.fas.fa-user-cog
-            | Empresas de tecnología y #[em software].
+            span Empresas de tecnología y #[em software].
           li.mb-0 
             i.fas.fas.fa-user-cog
             | Empresas de servicios de suscripción.
@@ -536,8 +536,8 @@
 
     .row.mb-4.justify-content-center.align-items-center
       .col-12(data-aos="fade-right")
-        div
-          b.fondo-2.px-3.py-1(data-aos="zoom-in-down") #[span f.] Plataformas de video
+        h3
+          span.fondo-2.px-3.py-1(data-aos="zoom-in-down") #[span f.] Plataformas de video
 
     p.mb-4(data-aos="fade-right") Las plataformas de video como YouTube permiten a las empresas crear contenido visual atractivo que muestra sus productos y servicios en acción.
 

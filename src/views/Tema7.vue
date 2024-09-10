@@ -16,8 +16,8 @@
     
     .row.mb-5.justify-content-center.align-items-center
       .col-12(data-aos="fade-right")
-        div
-          b.fondo-2.px-4.py-1(data-aos="zoom-in-down") #[span ●] Productos de ahorro y depósito
+        h3
+          span.fondo-2.px-4.py-1(data-aos="zoom-in-down") #[span ●] Productos de ahorro y depósito
 
     p.mb-4(data-aos="fade-left") Estos productos están diseñados para ayudar a los clientes a guardar su dinero de manera segura y obtener rendimientos a través de intereses. Incluyen:
 
@@ -46,8 +46,8 @@
 
     .row.mb-5.justify-content-center.align-items-center
       .col-12(data-aos="fade-right")
-        div
-          b.fondo-2.px-4.py-1(data-aos="zoom-in-down") #[span ●] Productos de crédito
+        h3
+          span.fondo-2.px-4.py-1(data-aos="zoom-in-down") #[span ●] Productos de crédito
 
     p.mb-4(data-aos="fade-left") Los productos de crédito facilitan el acceso a financiamiento para individuos y empresas. Entre ellos se encuentran:
 
@@ -82,8 +82,8 @@
         figure
           img(src='@/assets/curso/temas/tema7/img_2.png', alt='')
       .col-lg-8.col-md-8.col-12(data-aos="fade-right")
-        div.mb-4
-          b.fondo-2.px-3.py-1(data-aos="zoom-in-down") #[span ●] Productos de inversión
+        h3.mb-4
+          span.fondo-2.px-3.py-1(data-aos="zoom-in-down") #[span ●] Productos de inversión
         p Estos productos están diseñados para ayudar a los clientes a aumentar su riqueza mediante la inversión en diferentes activos:
         ul.lista-ul--color
           li 
@@ -98,8 +98,8 @@
        
     .row.mb-4.justify-content-center.align-items-center
       .col-lg-10.col-12(data-aos="fade-right")
-        div.mb-4
-          b.fondo-2.px-3.py-1(data-aos="zoom-in-down") #[span ●] Seguros
+        h3.mb-4
+          span.fondo-2.px-3.py-1(data-aos="zoom-in-down") #[span ●] Seguros
         p Los seguros ofrecen protección financiera contra riesgos imprevistos. En Colombia, el portafolio de seguros típicamente incluye:
         .row.align-items-center.cajon.color-primario.p-4
           .col-md-2.col-10
@@ -122,8 +122,8 @@
   
     .row.mb-4.justify-content-center.align-items-center
       .col-12(data-aos="fade-right")
-        div
-          b.fondo-2.px-3.py-1(data-aos="zoom-in-down") #[span ●] Servicios de asesoría financiera
+        h3
+          span.fondo-2.px-3.py-1(data-aos="zoom-in-down") #[span ●] Servicios de asesoría financiera
 
     p.mb-4(data-aos="fade-left") Las entidades financieras en Colombia también ofrecen servicios de asesoría para ayudar a los clientes a tomar decisiones informadas sobre su dinero:
 
