@@ -70,7 +70,7 @@
             p Innovación educativa, tecnologías de la información, enseñanza en línea.
           .tarjeta.color-acento-contenido.p-3(x="73%" y="57%" numero="+")
             //- .h5.mb-2 Conducta
-            p Utiliza regularmente plataformas de e-learning, busca constantemente nuevas herramientas educativas, es activo en foros y comunidades educativas en línea.
+            p Utiliza regularmente plataformas de #[em e-learning], busca constantemente nuevas herramientas educativas, es activo en foros y comunidades educativas en línea.
           .tarjeta.color-acento-contenido.p-3(x="10%" y="57%" numero="+")
             //- .h5.mb-2 Nivel Educativo
             p Universitario.
