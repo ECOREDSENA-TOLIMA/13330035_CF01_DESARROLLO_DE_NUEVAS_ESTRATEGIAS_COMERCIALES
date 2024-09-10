@@ -223,7 +223,7 @@ export default {
         'etapas por las que pasa un producto desde su introducción en el mercado hasta su declive, cada una requiriendo estrategias específicas de <em>marketing</em>, producción y gestión.',
     },
     {
-      termino: 'Cliente Ideal (<em>buyer</em> persona)',
+      termino: 'Cliente Ideal (<em>buyer persona</em>)',
       significado:
         'representación semi-ficticia del cliente que mejor se ajusta a los productos o servicios ofrecidos por una empresa, basada en datos demográficos, psicográficos y comportamentales.',
     },

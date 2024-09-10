@@ -11,7 +11,7 @@
     
     .row.mb-4.fondo-1.p-4.justify-content-center.align-items-center
       .col-lg-6.order-lg-1.order-2.col-12(data-aos="fade-right")
-        p.mb-2 El concepto de cliente ideal, también conocido como #[em buyer] persona, es una representación detallada y semi-ficticia del cliente que mejor se ajusta a los productos o servicios ofrecidos por una empresa. Este perfil se construye a partir de datos demográficos, psicográficos y comportamentales recopilados a través de diversas fuentes como encuestas, entrevistas y análisis de comportamiento en línea. Según Revella (2020), la creación de #[em buyer] personas permite a las empresas alinear sus estrategias de #[em marketing] y ventas con las expectativas y necesidades reales de los clientes, facilitando así una conexión más efectiva y personalizada con su audiencia objetivo.
+        p.mb-2 El concepto de cliente ideal, también conocido como #[em buyer persona], es una representación detallada y semi-ficticia del cliente que mejor se ajusta a los productos o servicios ofrecidos por una empresa. Este perfil se construye a partir de datos demográficos, psicográficos y comportamentales recopilados a través de diversas fuentes como encuestas, entrevistas y análisis de comportamiento en línea. Según Revella (2020), la creación de #[em buyer personas] permite a las empresas alinear sus estrategias de #[em marketing] y ventas con las expectativas y necesidades reales de los clientes, facilitando así una conexión más efectiva y personalizada con su audiencia objetivo.
         p.mb-2 La relevancia de identificar al cliente ideal se ve reflejada en varios aspectos críticos del negocio, como el desarrollo de productos, la creación de contenido, la planificación de campañas de #[em marketing] y la mejora del servicio al cliente. Un estudio de la #[em Harvard Business Review] (2020) destaca que las empresas que implementan estrategias basadas en un profundo conocimiento de sus clientes pueden aumentar significativamente su retención y satisfacción, lo cual se traduce en un incremento en las ventas y la lealtad a la marca.
       .col-lg-4.col-8.order-lg-2.order-1.mb-lg-0.mb-4(data-aos="fade-right")
         figure
@@ -25,7 +25,7 @@
       .col-lg-5.col-10.mb-lg-0.mb-4(data-aos="fade-left") 
         img.mt-3(src='@/assets/curso/temas/tema1/img_2.png').mb-3
       .col-lg-7(data-aos="fade-right") 
-        p El perfil de cliente ideal, también conocido como #[em buyer] persona, es una representación semi-ficticia basada en datos y características reales de los clientes más valiosos para una empresa. Este perfil ayuda a las organizaciones a entender mejor las necesidades y comportamientos de sus clientes, permitiendo diseñar estrategias de #[em marketing] y ventas más efectivas.
+        p El perfil de cliente ideal, también conocido como #[em buyer persona], es una representación semi-ficticia basada en datos y características reales de los clientes más valiosos para una empresa. Este perfil ayuda a las organizaciones a entender mejor las necesidades y comportamientos de sus clientes, permitiendo diseñar estrategias de #[em marketing] y ventas más efectivas.
         p.cajon.color-secundario.p-4 Existen varios tipos de perfiles de clientes, pero los más comunes son los clientes B2B (#[em Business to Business]) y B2C (#[em Business to Consumer]). Cada tipo de cliente tiene características y necesidades específicas que deben ser comprendidas y abordadas de manera diferente.
         p Para crear un perfil de cliente efectivo, es fundamental considerar varios factores:
 
