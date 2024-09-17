@@ -18,7 +18,7 @@
           img(src='@/assets/curso/temas/tema1/img_1.png', alt='')
 
     Separador
-    #t_1_1.titulo-segundo.color-primario(data-aos="fade-right")
+    #t_1_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 1.1 Definición del perfil de cliente
 
     .row.align-items-center.justify-content-center.mb-4
@@ -83,7 +83,7 @@
     p.mb-4(data-aos="fade-down") Con esa información en esos niveles de detalle se va estableciendo un perfil de usuario que será requerido a la hora de hablar de clientes.
 
     Separador
-    #t_1_2.titulo-segundo.color-primario(data-aos="fade-right")
+    #t_1_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 1.2 Herramientas y técnicas para identificar clientes potenciales
 
     p.mb-4(data-aos="fade-down") Recolectar información de cada persona se vuelve un trabajo de gran esfuerzo sobre todo en la concepción, mantenimiento y análisis de los datos, es por eso que se recomienda usar herramientas para la identificación de los clientes potenciales y ganar terreno en el mercado de manera rápida y efectiva. Algunas de las herramientas más utilizadas para este tipo de trabajo son las siguientes: 
@@ -263,7 +263,7 @@
     p.mb-2(data-aos="fade-right") #[b Ejemplo:] una tienda en línea de productos de belleza puede utilizar herramientas de análisis de redes sociales para identificar a personas que siguen cuentas relacionadas con el cuidado de la piel y la belleza, interactúan con contenido sobre maquillaje y publican reseñas de productos de belleza.
 
     Separador
-    #t_1_3.titulo-segundo.color-primario(data-aos="fade-right")
+    #t_1_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 1.3 Segmentación de mercados
 
     p.mb-4(data-aos="fade-right") La segmentación de mercados es un proceso estratégico en el que se divide un mercado heterogéneo en grupos más pequeños y homogéneos, conocidos como segmentos, que comparten características similares. Este enfoque permite a las empresas adaptar sus estrategias de #[em marketing] y ventas para satisfacer de manera más efectiva las necesidades y preferencias de cada grupo específico. Según Kotler y Keller (2019), la segmentación de mercados es esencial para identificar oportunidades de mercado, mejorar la satisfacción del cliente y maximizar la eficiencia en el uso de recursos. Los principales tipos de segmentación de mercados son los siguientes:

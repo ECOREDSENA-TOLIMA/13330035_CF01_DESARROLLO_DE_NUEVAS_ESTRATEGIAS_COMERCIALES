@@ -15,7 +15,7 @@
     p.mb-4(data-aos="fade-left") En el mundo digital actual, donde la recopilación y el uso de datos personales son fundamentales para muchas estrategias comerciales, es esencial que las empresas cumplan con las regulaciones y normativas vigentes sobre la protección de la información del cliente. Estas leyes, como el Reglamento General de Protección de Datos (GDPR) en la Unión Europea y la Ley de Privacidad del Consumidor de California (CCPA) en los Estados Unidos, están diseñadas para salvaguardar la privacidad de los individuos y establecer directrices claras sobre cómo debe manejarse la información personal. Cumplir con estas regulaciones no solo ayuda a las empresas a evitar sanciones legales y proteger su reputación, sino que también refuerza la confianza del cliente al demostrar un compromiso con la transparencia y la seguridad en el manejo de sus datos.
     
     Separador
-    #t_4_1.titulo-segundo.color-primario(data-aos="fade-right")
+    #t_4_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 4.1 Protección de datos personales
 
     .row.mb-4.fondo-1.p-4.justify-content-center.align-items-center
@@ -70,7 +70,7 @@
             p.mb-0 #[b Reputación de la empresa:] mantener una buena reputación y evitar daños a la imagen de la empresa asociados con violaciones de datos y uso indebido de información personal.
 
     Separador
-    #t_4_2.titulo-segundo.color-primario(data-aos="fade-right")
+    #t_4_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 4.2 Consentimiento y transparencia en la recopilación de datos
 
     p.mb-2(data-aos="fade-left") El consentimiento y la transparencia son principios clave en la recopilación de datos personales. Las empresas deben informar claramente a los individuos sobre qué datos se están recopilando, cómo se utilizarán y con quién se compartirán. Además, deben obtener el consentimiento explícito de los individuos antes de recopilar sus datos.
@@ -107,7 +107,7 @@
         p.cajon.color-secundario.p-4 #[b Ejemplo práctico:] una tienda en línea puede implementar un #[em banner] de #[cookies] que informe a los visitantes sobre el uso de #[cookies] en el sitio #[em web], proporcionando opciones para aceptar todas las #[em cookies], personalizar la configuración de #[cookies] o rechazar las #[cookies] no esenciales.
 
     Separador
-    #t_4_3.titulo-segundo.color-primario(data-aos="fade-right")
+    #t_4_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 4.3 Responsabilidades legales de las empresas en el manejo de información
 
     p.mb-2(data-aos="fade-left") Las empresas tienen la responsabilidad legal de proteger los datos personales que recopilan y manejan. Esto incluye implementar medidas de seguridad adecuadas, realizar evaluaciones de impacto sobre la privacidad y responder a las solicitudes de los individuos en relación con sus derechos sobre sus datos.

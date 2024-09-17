@@ -162,7 +162,7 @@
     p.mb-4(data-aos="fade-right") #[b Ejemplo:] una empresa de productos de cuidado personal puede utilizar datos sobre el rendimiento de sus diferentes líneas de productos para diseñar campañas de #[em marketing] específicas para cada segmento de consumidores, como adolescentes, adultos jóvenes y personas mayores.
 
     Separador
-    #t_5_1.titulo-segundo.color-primario(data-aos="fade-right")
+    #t_5_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 5.1 Componentes principales del portafolio de productos y servicios
 
     p.mb-4(data-aos="fade-right") El portafolio de productos y servicios es un elemento esencial en la estrategia de cualquier empresa, ya que representa la totalidad de la oferta que una organización presenta al mercado. Este portafolio no solo incluye los productos y servicios actuales, sino también las innovaciones y desarrollos futuros que la empresa planea introducir. La gestión efectiva de este portafolio permite a las empresas equilibrar su oferta, optimizar sus recursos y maximizar las oportunidades de crecimiento y rentabilidad. Comprender los componentes principales del portafolio de productos y servicios es crucial para desarrollar estrategias que respondan a las demandas del mercado y se alineen con los objetivos estratégicos de la empresa. A continuación, se explorarán los elementos clave que conforman un portafolio robusto y cómo cada uno contribuye al éxito global de la organización.
@@ -195,7 +195,7 @@
     p.mb-4(data-aos="fade-right") El análisis del ciclo de vida del producto (CVP) es una herramienta fundamental en la gestión de productos que permite a las empresas entender las distintas etapas por las que pasa un producto desde su introducción en el mercado hasta su declive. Cada etapa del ciclo de vida requiere estrategias específicas de #[em marketing], producción y gestión para maximizar el éxito del producto y la rentabilidad de la empresa.
 
     Separador
-    #t_5_2.titulo-segundo.color-primario(data-aos="fade-right")
+    #t_5_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 5.2 Ciclo de vida del producto
 
     p.mb-4(data-aos="fade-right") Comprender las fases del ciclo de vida del producto es fundamental para la gestión eficaz de cualquier oferta en el mercado. Cada producto pasa por una serie de etapas, desde su introducción hasta su eventual declive, y cada una de estas fases presenta desafíos y oportunidades únicas. Identificar en qué fase se encuentra un producto permite a las empresas desarrollar estrategias específicas de #[em marketing], producción y gestión que maximicen su rentabilidad y prolonguen su éxito en el mercado. Este enfoque estructurado ayuda a optimizar los recursos y a tomar decisiones informadas que alineen los esfuerzos comerciales con las demandas cambiantes del mercado y las expectativas de los consumidores. A continuación, se detallan las fases del ciclo de vida del producto y las estrategias recomendadas para cada etapa.
@@ -327,7 +327,7 @@
         p #[b Aplicación:] ayuda a las empresas a desarrollar estrategias que aprovechen sus fortalezas y oportunidades mientras mitigan sus debilidades y amenazas.
 
     Separador
-    #t_5_3.titulo-segundo.color-primario(data-aos="fade-right")
+    #t_5_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 5.3 Gestión del portafolio de productos y servicios
 
     p.mb-4(data-aos="fade-right") La gestión efectiva del portafolio de productos y servicios implica la evaluación continua y el ajuste de la oferta de la empresa para garantizar que esté alineada con las necesidades del mercado y los objetivos estratégicos de la empresa. Esto incluye la identificación de productos que deben ser eliminados, la introducción de nuevas ofertas y la optimización de la mezcla de productos para maximizar el valor para los clientes y la empresa.

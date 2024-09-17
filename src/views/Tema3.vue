@@ -15,7 +15,7 @@
     p.mb-4(data-aos="fade-left") En el entorno empresarial actual, la información se ha convertido en uno de los activos más valiosos para cualquier organización. La capacidad de recopilar, analizar y utilizar datos sobre los clientes y el mercado puede marcar la diferencia entre el éxito y el fracaso de una empresa. La información precisa y detallada permite a las empresas tomar decisiones más informadas, personalizar sus ofertas y desarrollar estrategias comerciales que realmente resuenen con sus clientes. Este enfoque basado en datos no solo mejora la eficiencia operativa y la competitividad, sino que también aumenta la satisfacción y lealtad del cliente al ofrecer experiencias más relevantes y personalizadas. La integración de la información en la estrategia comercial es, por tanto, esencial para impulsar el crecimiento sostenible y mantener una ventaja competitiva en el mercado.
 
     Separador
-    #t_3_1.titulo-segundo.color-primario(data-aos="fade-right")
+    #t_3_1.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 3.1 Análisis de datos para la toma de decisiones
 
     p.mb-4(data-aos="fade-left") El análisis de datos implica procesar y examinar grandes volúmenes de información para identificar patrones, tendencias y relaciones que pueden guiar la toma de decisiones empresariales. Este proceso permite convertir datos brutos en #[em insights] valiosos y accionables.
@@ -41,7 +41,7 @@
           img(src='@/assets/curso/temas/tema3/img_2.png', alt='')
 
     Separador
-    #t_3_2.titulo-segundo.color-primario(data-aos="fade-right")
+    #t_3_2.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 3.2 Personalización de la oferta comercial
     
     p.mb-4(data-aos="fade-left") La personalización de la oferta comercial implica adaptar productos, servicios y campañas de #[em marketing] para satisfacer las necesidades y preferencias individuales de los clientes. Esta estrategia se basa en la información detallada recopilada sobre los comportamientos, preferencias y demografía de los clientes.
@@ -64,7 +64,7 @@
         p.cajon.color-secundario.p-4 #[b Ejemplo práctico:] una tienda en línea de moda puede utilizar la información del historial de compras y navegación de sus clientes para recomendar productos específicos que coincidan con sus preferencias de estilo. Esta personalización puede aumentar la probabilidad de compra y fomentar la lealtad del cliente.
 
     Separador
-    #t_3_3.titulo-segundo.color-primario(data-aos="fade-right")
+    #t_3_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")
       h2 3.3 Estrategias de fidelización basadas en el conocimiento del cliente
 
     p.mb-4(data-aos="fade-left") Las estrategias de fidelización se centran en mantener a los clientes actuales comprometidos y satisfechos, incentivando su lealtad a largo plazo. Estas estrategias se basan en un profundo conocimiento del cliente obtenido a través de la recopilación y análisis de datos. A continuación, se dan datos que representan la importancia del concepto:
