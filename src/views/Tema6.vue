@@ -40,7 +40,7 @@
               h4 Bancos hipotecarios
               p Se especializan en financiamiento para la adquisición de bienes inmuebles, ofreciendo créditos hipotecarios a largo plazo.
 
-    p.mb-4(data-aos="fade-left") Los bancos son las entidades más populares, sin embargo en el mercado se encuentran otras varias entidades que prestan servicios financieros y se encuentran en el siguiente recurso:
+    p.mb-4(data-aos="fade-left") Los bancos son las entidades más populares, sin embargo en el mercado se encuentran otras varias entidades que prestan servicios financieros y se encuentran a continuación:
 
     .row.mb-5.justify-content-center.align-items-center(data-aos="fade-down")
       .col-12.p-5.tarjeta.fondo-6

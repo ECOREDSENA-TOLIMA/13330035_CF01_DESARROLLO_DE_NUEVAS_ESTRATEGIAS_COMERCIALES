@@ -395,25 +395,25 @@
         ul.lista-ul--color
           li.mb-0 
             i.fas.fas.fa-user-cog
-            | Empresas de #[em retail].
+            p.mb-0 Empresas de  #[em retail].
           li.mb-0 
             i.fas.fas.fa-user-cog
-            | Empresas de productos de consumo.
+            p.mb-0 Empresas de productos de consumo.
           li.mb-0 
             i.fas.fas.fa-user-cog
-            | Pequeñas y medianas empresas (PYMES).
+            p.mb-0 Pequeñas y medianas empresas (PYMES).
         div.mb-2
           b.text-1(data-aos="zoom-in-down") #[span ●] Ventajas
         ul.lista-ul--color
           li.mb-0 
             i.fas.fas.fa-user-cog
-            | Facilidad de compra y transacción para los clientes.
+            p.mb-0 Facilidad de compra y transacción para los clientes.
           li.mb-0 
             i.fas.fas.fa-user-cog
-            | Gestión de inventario y seguimiento de ventas.
+            p.mb-0 Gestión de inventario y seguimiento de ventas.
           li.mb-0 
             i.fas.fas.fa-user-cog
-            | Personalización y recomendaciones basadas en el comportamiento del usuario.
+            p.mb-0 Personalización y recomendaciones basadas en el comportamiento del usuario.
         p #[b Ejemplo:] Nike utiliza su tienda en línea para mostrar y vender su amplia gama de productos deportivos, con opciones de personalización y recomendaciones personalizadas.
       .col-lg-3.col-md-8.col-10.mb-lg-0.mb-4.order-lg-2.order-1(data-aos="fade-right")
         figure
@@ -448,13 +448,13 @@
         ul.lista-ul--color
           li.mb-0 
             i.fas.fas.fa-user-cog
-            | Alto alcance y visibilidad.
+            p.mb-0 Alto alcance y visibilidad.
           li.mb-0 
             i.fas.fas.fa-user-cog
-            | Interacción en tiempo real con los clientes.
+            p.mb-0 Interacción en tiempo real con los clientes.
           li.mb-0 
             i.fas.fas.fa-user-cog
-            | Facilidad para compartir contenido visual y promocional.
+            p.mb-0 Facilidad para compartir contenido visual y promocional.
         p #[b Ejemplo:] Sephora utiliza Instagram para mostrar sus productos de belleza, tutoriales de maquillaje y promociones especiales, interactuando directamente con sus seguidores.
     
     .row.mb-4.justify-content-center.align-items-center
@@ -471,25 +471,25 @@
         ul.lista-ul--color
           li.mb-0 
             i.fas.fas.fa-user-cog
-            span Empresas de B2B (#[em Business to Business]).
+            p.mb-0 Empresas de B2B (#[em Business to Business]).
           li.mb-0 
             i.fas.fas.fa-user-cog
-            | Empresas de distribución y logística.
+            p.mb-0 Empresas de distribución y logística.
           li.mb-0 
             i.fas.fas.fa-user-cog
-            | Empresas industriales.
+            p.mb-0 Empresas industriales.
         div.mb-2
           b.text-1(data-aos="zoom-in-down") #[span ●] Ventajas
         ul.lista-ul--color
           li.mb-0 
             i.fas.fas.fa-user-cog
-            | Acceso fácil y portátil.
+            p.mb-0 Acceso fácil y portátil.
           li.mb-0 
             i.fas.fas.fa-user-cog
-            | Posibilidad de incluir enlaces interactivos y multimedia.
+            p.mb-0 Posibilidad de incluir enlaces interactivos y multimedia.
           li.mb-0 
             i.fas.fas.fa-user-cog
-            | Actualización constante y distribución eficiente.
+            p.mb-0 Actualización constante y distribución eficiente.
         p #[b Ejemplo:] Grainger, un distribuidor industrial, ofrece un catálogo digital con información detallada sobre sus productos y opciones de compra en línea.
       .col-lg-3.col-md-8.col-10.mb-lg-0.mb-4.order-lg-2.order-1(data-aos="fade-right")
         figure
@@ -512,25 +512,25 @@
         ul.lista-ul--color
           li.mb-0 
             i.fas.fas.fa-user-cog
-            span Empresas de tecnología y #[em software].
+            p.mb-0 Empresas de tecnología y #[em software].
           li.mb-0 
             i.fas.fas.fa-user-cog
-            | Empresas de servicios de suscripción.
+            p.mb-0 Empresas de servicios de suscripción.
           li.mb-0 
             i.fas.fas.fa-user-cog
-            | Empresas de entretenimiento y medios.
+            p.mb-0 Empresas de entretenimiento y medios.
         div.mb-2
           b.text-1(data-aos="zoom-in-down") #[span ●] Ventajas
         ul.lista-ul--color
           li.mb-0 
             i.fas.fas.fa-user-cog
-            | Acceso en cualquier momento y lugar.
+            p.mb-0 Acceso en cualquier momento y lugar.
           li.mb-0 
             i.fas.fas.fa-user-cog
-            | Experiencia de usuario personalizada.
+            p.mb-0 Experiencia de usuario personalizada.
           li.mb-0 
             i.fas.fas.fa-user-cog
-            | Notificaciones #[em push] para promociones y actualizaciones.
+            p.mb-0 Notificaciones #[em push] para promociones y actualizaciones.
         p #[b Ejemplo:] Amazon tiene una aplicación móvil que permite a los usuarios navegar y comprar productos fácilmente, con características personalizadas y recomendaciones basadas en el historial de compras.
     
 
@@ -548,25 +548,25 @@
         ul.lista-ul--color
           li.mb-0 
             i.fas.fas.fa-user-cog
-            | Empresas de educación y formación.
+            p.mb-0 Empresas de educación y formación.
           li.mb-0 
             i.fas.fas.fa-user-cog
-            | Empresas de viajes y turismo.
+            p.mb-0 Empresas de viajes y turismo.
           li.mb-0 
             i.fas.fas.fa-user-cog
-            | Empresas de salud y bienestar.
+            p.mb-0 Empresas de salud y bienestar.
         div.mb-2
           b.text-1(data-aos="zoom-in-down") #[span ●] Ventajas
         ul.lista-ul--color
           li.mb-0 
             i.fas.fas.fa-user-cog
-            | Capacidad de demostrar el uso de productos y servicios.
+            p.mb-0 Capacidad de demostrar el uso de productos y servicios.
           li.mb-0 
             i.fas.fas.fa-user-cog
-            | Alto potencial de viralización.
+            p.mb-0 Alto potencial de viralización.
           li.mb-0 
             i.fas.fas.fa-user-cog
-            | Interacción a través de comentarios y suscripciones.
+            p.mb-0 Interacción a través de comentarios y suscripciones.
         p #[b Ejemplo:] GoPro utiliza YouTube para mostrar videos de alta calidad filmados con sus cámaras, destacando las capacidades de sus productos y la creatividad de su comunidad de usuarios.
       .col-lg-3.col-md-8.col-10.mb-lg-0.mb-4.order-lg-2.order-1(data-aos="fade-right")
         figure

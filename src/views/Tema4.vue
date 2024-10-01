@@ -104,7 +104,7 @@
 
     .row.mb-4.p-4.justify-content-center.align-items-center
       .col-lg-10.col-12(data-aos="fade-right")
-        p.cajon.color-secundario.p-4 #[b Ejemplo práctico:] una tienda en línea puede implementar un #[em banner] de #[cookies] que informe a los visitantes sobre el uso de #[cookies] en el sitio #[em web], proporcionando opciones para aceptar todas las #[em cookies], personalizar la configuración de #[cookies] o rechazar las #[cookies] no esenciales.
+        p.cajon.color-secundario.p-4 #[b Ejemplo práctico:] una tienda en línea puede implementar un #[em banner] de #[em cookies] que informe a los visitantes sobre el uso de #[em cookies] en el sitio #[em web], proporcionando opciones para aceptar todas las #[em cookies], personalizar la configuración de #[em cookies] o rechazar las #[em cookies] no esenciales.
 
     Separador
     #t_4_3.titulo-segundo.color-acento-contenido(data-aos="fade-right")

@@ -135,7 +135,7 @@ export default {
       {
         nombreRuta: 'tema6',
         numero: '6',
-        titulo: 'Portafolio de instituciones financieras',
+        titulo: 'Servicios de las entidades financieras en Colombia',
         desarrolloContenidos: true,
       },
       {
